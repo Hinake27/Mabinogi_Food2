@@ -1,0 +1,8448 @@
+[
+  {
+    "id": "001",
+    "category": "練習",
+    "type": "混合",
+    "name": "馬鈴薯雞蛋沙拉",
+    "english_name": "Potato And Egg Salad",
+    "ingredients": [
+      {
+        "ingredient": "煮熟的馬鈴薯",
+        "percentage": "53%"
+      },
+      {
+        "ingredient": "煮熟的雞蛋",
+        "percentage": "36%"
+      },
+      {
+        "ingredient": "美乃茲醬",
+        "percentage": "11%"
+      }
+    ]
+  },
+  {
+    "id": "002",
+    "category": "練習",
+    "type": "混合",
+    "name": "馬鈴薯沙拉",
+    "english_name": "Potato Salad",
+    "ingredients": [
+      {
+        "ingredient": "煮熟的馬鈴薯",
+        "percentage": "68%"
+      },
+      {
+        "ingredient": "洋蔥",
+        "percentage": "23%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "9%"
+      }
+    ]
+  },
+  {
+    "id": "003",
+    "category": "練習",
+    "type": "混合",
+    "name": "雞蛋沙拉",
+    "english_name": "Egg Salad",
+    "ingredients": [
+      {
+        "ingredient": "煮熟的雞蛋",
+        "percentage": "75%"
+      },
+      {
+        "ingredient": "美乃茲醬",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "004",
+    "category": "練習",
+    "type": "混合",
+    "name": "水果沙拉",
+    "english_name": "Fruits Salad",
+    "ingredients": [
+      {
+        "ingredient": "水果拼盤",
+        "percentage": "75%"
+      },
+      {
+        "ingredient": "美乃茲醬",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "005",
+    "category": "練習",
+    "type": "混合",
+    "name": "鯰魚蔬菜沙拉",
+    "english_name": "Catfish and Vegetables Salad",
+    "ingredients": [
+      {
+        "ingredient": "鯰魚",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "野菜拼盤",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "美乃茲醬",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "006",
+    "category": "練習",
+    "type": "混合",
+    "name": "魚子醬沙拉",
+    "english_name": "Caviar Salad",
+    "ingredients": [
+      {
+        "ingredient": "水果拼盤",
+        "percentage": "72%"
+      },
+      {
+        "ingredient": "灰鯖鯊",
+        "percentage": "18%"
+      },
+      {
+        "ingredient": "美乃茲醬",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "007",
+    "category": "練習",
+    "type": "混合",
+    "name": "番茄沙拉",
+    "english_name": "tomato basil salad",
+    "ingredients": [
+      {
+        "ingredient": "蕃茄",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "羅勒",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "煮熟的馬鈴薯",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "008",
+    "category": "練習",
+    "type": "混合",
+    "name": "香草蘑菇沙拉",
+    "english_name": "hurb mushroom salald",
+    "ingredients": [
+      {
+        "ingredient": "炒蘑菇",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "香草",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "橄欖油",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "009",
+    "category": "練習",
+    "type": "混合",
+    "name": "狗餅乾",
+    "english_name": "Dog Cookie",
+    "ingredients": [
+      {
+        "ingredient": "巧克力餅乾",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "奶油餅乾",
+        "percentage": "40%"
+      }
+    ]
+  },
+  {
+    "id": "010",
+    "category": "練習",
+    "type": "混合",
+    "name": "水果拼盤",
+    "english_name": "Fruits",
+    "ingredients": [
+      {
+        "ingredient": "草莓",
+        "percentage": "46%"
+      },
+      {
+        "ingredient": "蘋果",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "果實",
+        "percentage": "24%"
+      }
+    ]
+  },
+  {
+    "id": "011",
+    "category": "練習",
+    "type": "混合",
+    "name": "義式冰沙",
+    "english_name": "Granita",
+    "ingredients": [
+      {
+        "ingredient": "水果拼盤",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "冰",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "012",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "魔法豆做成的豆腐",
+    "english_name": "Magic Bean Curd",
+    "ingredients": [
+      {
+        "ingredient": "魔法豆粉",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "凝固劑",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "013",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "焦掉烤熟的豆腐",
+    "english_name": "Crushed Bean Curd",
+    "ingredients": [
+      {
+        "ingredient": "烤熟的豆子粉",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "014",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "焦掉的剝皮豆腐",
+    "english_name": "Crushed Bean Curd",
+    "ingredients": [
+      {
+        "ingredient": "剝了皮的豆子粉",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "015",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "焦掉的泡水豆腐",
+    "english_name": "Crushed Bean Curd",
+    "ingredients": [
+      {
+        "ingredient": "泡水的豆子粉",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "016",
+    "category": "練習",
+    "type": "混合",
+    "name": "蘑菇漢堡",
+    "english_name": "Mushroom Canap",
+    "ingredients": [
+      {
+        "ingredient": "栗茸",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "起司塊",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "017",
+    "category": "練習",
+    "type": "混合",
+    "name": "培根與馬鈴薯狗食",
+    "english_name": "Bacon Potato for Dogs",
+    "ingredients": [
+      {
+        "ingredient": "馬鈴薯",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "培根",
+        "percentage": "40%"
+      }
+    ]
+  },
+  {
+    "id": "018",
+    "category": "練習",
+    "type": "混合",
+    "name": "蔬菜小餐點",
+    "english_name": "vegetable canafe",
+    "ingredients": [
+      {
+        "ingredient": "紅蘿蔔",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "煮熟的馬鈴薯",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "檸檬",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "019",
+    "category": "練習",
+    "type": "混合",
+    "name": "涼拌胡瓜魚",
+    "english_name": "Pondsmelt salad",
+    "ingredients": [
+      {
+        "ingredient": "炒青菜",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "胡瓜魚",
+        "percentage": "40%"
+      }
+    ]
+  },
+  {
+    "id": "020",
+    "category": "練習",
+    "type": "混合",
+    "name": "蝦子狗食",
+    "english_name": "Shrimp & Rice for Dogs",
+    "ingredients": [
+      {
+        "ingredient": "白飯",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "蝦",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "021",
+    "category": "練習",
+    "type": "混合",
+    "name": "義式鮮蝦烤麵包片",
+    "english_name": "Shrimp Bruschetta",
+    "ingredients": [
+      {
+        "ingredient": "野菜拼盤",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "麵包",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "蝦",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "022",
+    "category": "練習",
+    "type": "混合",
+    "name": "亞布內亞醃鹹魚",
+    "english_name": "Corned Abb Neagh Carp and Vegetables",
+    "ingredients": [
+      {
+        "ingredient": "亞布內亞鯉魚",
+        "percentage": "55%"
+      },
+      {
+        "ingredient": "野菜拼盤",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "023",
+    "category": "練習",
+    "type": "混合",
+    "name": "雞蛋魚子醬",
+    "english_name": "Egg caviar",
+    "ingredients": [
+      {
+        "ingredient": "荷包蛋",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "鱘魚",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "起司塊",
+        "percentage": "25%"
+      }
+    ]
+  },
+  {
+    "id": "024",
+    "category": "7",
+    "type": "製作果醬(火)",
+    "name": "巧克力",
+    "english_name": "Chocolate",
+    "ingredients": [
+      {
+        "ingredient": "材料巧克力",
+        "percentage": "41%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "42%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "17%"
+      }
+    ]
+  },
+  {
+    "id": "025",
+    "category": "練習",
+    "type": "混合",
+    "name": "魚子醬開胃菜",
+    "english_name": "Caviar canap",
+    "ingredients": [
+      {
+        "ingredient": "麵包",
+        "percentage": "55%"
+      },
+      {
+        "ingredient": "鱘魚",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "果實",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "026",
+    "category": "8",
+    "type": "製作義大利麵",
+    "name": "奶油義大利麵",
+    "english_name": "cream farfalle",
+    "ingredients": [
+      {
+        "ingredient": "短義大利麵食",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "奶油調味料",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "栗茸",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "027",
+    "category": "練習",
+    "type": "混合",
+    "name": "海蜇冷盤",
+    "english_name": "Cold Jellyfish and Vegetables",
+    "ingredients": [
+      {
+        "ingredient": "水母",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "10%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "028",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "貝爾法斯特鰻魚蓋飯",
+    "english_name": "Bowl Of Boiled Eel And Rice",
+    "ingredients": [
+      {
+        "ingredient": "白飯",
+        "percentage": "53%"
+      },
+      {
+        "ingredient": "貝爾法斯特鰻魚",
+        "percentage": "36%"
+      },
+      {
+        "ingredient": "野菜拼盤",
+        "percentage": "11%"
+      }
+    ]
+  },
+  {
+    "id": "029",
+    "category": "練習",
+    "type": "混合",
+    "name": "回憶的便當",
+    "english_name": "Lunch of Remembrance",
+    "ingredients": [
+      {
+        "ingredient": "白飯",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "荷包蛋",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "料理藥水",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "030",
+    "category": "練習",
+    "type": "混合",
+    "name": "草莓牛奶",
+    "english_name": "Strawberry Milk",
+    "ingredients": [
+      {
+        "ingredient": "牛奶",
+        "percentage": "65%"
+      },
+      {
+        "ingredient": "草莓",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "031",
+    "category": "練習",
+    "type": "混合",
+    "name": "檸檬汁",
+    "english_name": "Lemon Juice",
+    "ingredients": [
+      {
+        "ingredient": "檸檬",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "果實",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "032",
+    "category": "練習",
+    "type": "混合",
+    "name": "瑪奇朵",
+    "english_name": "Macchiato",
+    "ingredients": [
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "熱牛奶",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "濃縮咖啡",
+        "percentage": "30%"
+      }
+    ]
+  },
+  {
+    "id": "033",
+    "category": "練習",
+    "type": "混合",
+    "name": "布里赫烈酒",
+    "english_name": "Brifne Rocks",
+    "ingredients": [
+      {
+        "ingredient": "冰",
+        "percentage": "57%"
+      },
+      {
+        "ingredient": "布里赫威士忌",
+        "percentage": "38%"
+      },
+      {
+        "ingredient": "檸檬",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "034",
+    "category": "練習",
+    "type": "混合",
+    "name": "蘋果汁",
+    "english_name": "Apple Juice",
+    "ingredients": [
+      {
+        "ingredient": "蘋果",
+        "percentage": "73%"
+      },
+      {
+        "ingredient": "果實",
+        "percentage": "18%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "9%"
+      }
+    ]
+  },
+  {
+    "id": "035",
+    "category": "練習",
+    "type": "混合",
+    "name": "冰瑪奇朵",
+    "english_name": "Iced macchiato",
+    "ingredients": [
+      {
+        "ingredient": "瑪奇朵",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "冰",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "036",
+    "category": "練習",
+    "type": "混合",
+    "name": "冰摩卡",
+    "english_name": "Iced caffe mocha",
+    "ingredients": [
+      {
+        "ingredient": "摩卡",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "冰",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "037",
+    "category": "練習",
+    "type": "混合",
+    "name": "濃縮瑪奇朵",
+    "english_name": "Espresso macchiato",
+    "ingredients": [
+      {
+        "ingredient": "濃縮咖啡",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "熱牛奶",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "038",
+    "category": "練習",
+    "type": "混合",
+    "name": "柳橙汁",
+    "english_name": "Orange Juice",
+    "ingredients": [
+      {
+        "ingredient": "柳丁",
+        "percentage": "73%"
+      },
+      {
+        "ingredient": "果實",
+        "percentage": "18%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "9%"
+      }
+    ]
+  },
+  {
+    "id": "039",
+    "category": "練習",
+    "type": "混合",
+    "name": "巧克力牛奶",
+    "english_name": "Chocolate Milk",
+    "ingredients": [
+      {
+        "ingredient": "牛奶",
+        "percentage": "42%"
+      },
+      {
+        "ingredient": "巧克力",
+        "percentage": "41%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "17%"
+      }
+    ]
+  },
+  {
+    "id": "040",
+    "category": "練習",
+    "type": "混合",
+    "name": "摩卡",
+    "english_name": "Caffe mocha",
+    "ingredients": [
+      {
+        "ingredient": "濃縮咖啡",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "熱牛奶",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "材料巧克力",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "041",
+    "category": "練習",
+    "type": "混合",
+    "name": "卡布奇諾",
+    "english_name": "Cappuccino",
+    "ingredients": [
+      {
+        "ingredient": "熱牛奶",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "濃縮咖啡",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "牛奶",
+        "percentage": "30%"
+      }
+    ]
+  },
+  {
+    "id": "042",
+    "category": "練習",
+    "type": "混合",
+    "name": "BnR",
+    "english_name": "BnR",
+    "ingredients": [
+      {
+        "ingredient": "萊茵產琴酒",
+        "percentage": "36%"
+      },
+      {
+        "ingredient": "布里赫威士忌",
+        "percentage": "37%"
+      },
+      {
+        "ingredient": "冰",
+        "percentage": "27%"
+      }
+    ]
+  },
+  {
+    "id": "043",
+    "category": "練習",
+    "type": "混合",
+    "name": "Line Sling",
+    "english_name": "Line Sling",
+    "ingredients": [
+      {
+        "ingredient": "檸檬汁",
+        "percentage": "73%"
+      },
+      {
+        "ingredient": "萊茵產琴酒",
+        "percentage": "18%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "9%"
+      }
+    ]
+  },
+  {
+    "id": "044",
+    "category": "練習",
+    "type": "混合",
+    "name": "烈焰紅日(雞尾酒)",
+    "english_name": "Red Sunrise",
+    "ingredients": [
+      {
+        "ingredient": "柳橙汁",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "布里赫威士忌",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "045",
+    "category": "練習",
+    "type": "混合",
+    "name": "魯特納雞尾酒套餐",
+    "english_name": "Lutra cocktail collection",
+    "ingredients": [
+      {
+        "ingredient": "Line Sling",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "螺絲起子",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "烈焰紅日(雞尾酒)",
+        "percentage": "30%"
+      }
+    ]
+  },
+  {
+    "id": "046",
+    "category": "練習",
+    "type": "混合",
+    "name": "巴雷斯火焰",
+    "english_name": "Vales fire",
+    "ingredients": [
+      {
+        "ingredient": "巴雷斯威士忌",
+        "percentage": "75%"
+      },
+      {
+        "ingredient": "冰",
+        "percentage": "25%"
+      }
+    ]
+  },
+  {
+    "id": "047",
+    "category": "練習",
+    "type": "混合",
+    "name": "螺絲起子",
+    "english_name": "Screw Driver",
+    "ingredients": [
+      {
+        "ingredient": "柳橙汁",
+        "percentage": "76%"
+      },
+      {
+        "ingredient": "布里赫威士忌",
+        "percentage": "19%"
+      },
+      {
+        "ingredient": "檸檬",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "048",
+    "category": "練習",
+    "type": "混合",
+    "name": "kiss on the lips",
+    "english_name": "Kiss on the Lips",
+    "ingredients": [
+      {
+        "ingredient": "布里赫威士忌",
+        "percentage": "54%"
+      },
+      {
+        "ingredient": "檸檬汁",
+        "percentage": "32%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "14%"
+      }
+    ]
+  },
+  {
+    "id": "049",
+    "category": "練習",
+    "type": "混合",
+    "name": "納勒斯蛋糕套餐",
+    "english_name": "Nares cake collection",
+    "ingredients": [
+      {
+        "ingredient": "椰子奶油蛋糕",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "加藤巧克力",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "千層起司蛋糕",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "050",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "千層起司蛋糕",
+    "english_name": "Rare Cheese Cake",
+    "ingredients": [
+      {
+        "ingredient": "巨大的乳酪塊",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "奶油餅乾",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "051",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "起司麵包",
+    "english_name": "Cheese Bread",
+    "ingredients": [
+      {
+        "ingredient": "麵包",
+        "percentage": "75%"
+      },
+      {
+        "ingredient": "起司塊",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "052",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "咖哩麵包",
+    "english_name": "Curry Bread",
+    "ingredients": [
+      {
+        "ingredient": "麵包",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "肉塊",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "咖哩粉",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "053",
+    "category": "練習",
+    "type": "混合",
+    "name": "比路里亞餅乾套餐",
+    "english_name": "Filla cookie collection",
+    "ingredients": [
+      {
+        "ingredient": "蘑菇餅乾",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "椰子餅乾",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "巧克力餅乾",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "054",
+    "category": "8",
+    "type": "製作義大利麵",
+    "name": "番茄義大利麵",
+    "english_name": "tomato sphagetti",
+    "ingredients": [
+      {
+        "ingredient": "長義大利麵食",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "番茄調味料",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "芹菜",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "055",
+    "category": "8",
+    "type": "製作義大利麵",
+    "name": "義大利海產細麵條",
+    "english_name": "sea food sphagetti",
+    "ingredients": [
+      {
+        "ingredient": "長義大利麵食",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "海鮮調味料",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "貝殼",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "056",
+    "category": "練習",
+    "type": "混合",
+    "name": "山茶雞尾酒",
+    "english_name": "Camellia sling",
+    "ingredients": [
+      {
+        "ingredient": "巴雷斯威士忌",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "山茶果",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "057",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "黑鯛咖哩熱炒",
+    "english_name": "Curry Grilled Black Sea Beram",
+    "ingredients": [
+      {
+        "ingredient": "黑鯛",
+        "percentage": "78%"
+      },
+      {
+        "ingredient": "咖哩粉",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "7%"
+      }
+    ]
+  },
+  {
+    "id": "058",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "荷包蛋",
+    "english_name": "Fried Egg",
+    "ingredients": [
+      {
+        "ingredient": "蛋",
+        "percentage": "82%"
+      },
+      {
+        "ingredient": "胡椒",
+        "percentage": "9%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "9%"
+      }
+    ]
+  },
+  {
+    "id": "059",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "烤雞翅膀",
+    "english_name": "Well-done Chicken Wing",
+    "ingredients": [
+      {
+        "ingredient": "雞翅",
+        "percentage": "79%"
+      },
+      {
+        "ingredient": "橄欖油",
+        "percentage": "21%"
+      }
+    ]
+  },
+  {
+    "id": "060",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "烤雞",
+    "english_name": "Roasted Chicken",
+    "ingredients": [
+      {
+        "ingredient": "雞翅",
+        "percentage": "73%"
+      },
+      {
+        "ingredient": "香草",
+        "percentage": "18%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "9%"
+      }
+    ]
+  },
+  {
+    "id": "061",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "烤鯰魚",
+    "english_name": "Roast Catfish",
+    "ingredients": [
+      {
+        "ingredient": "鯰魚",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "高麗菜",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "062",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "烤培根",
+    "english_name": "Roasted Bacon",
+    "ingredients": [
+      {
+        "ingredient": "培根",
+        "percentage": "88%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "12%"
+      }
+    ]
+  },
+  {
+    "id": "063",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "布里赫烤鯉魚",
+    "english_name": "Brifne Carp Broiler",
+    "ingredients": [
+      {
+        "ingredient": "布里赫鯉魚",
+        "percentage": "84%"
+      },
+      {
+        "ingredient": "橄欖油",
+        "percentage": "11%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "064",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "烤綢緞紅肉旗魚",
+    "english_name": "Silk Striped Marlin Broiler",
+    "ingredients": [
+      {
+        "ingredient": "綢緞紅肉旗魚",
+        "percentage": "84%"
+      },
+      {
+        "ingredient": "橄欖油",
+        "percentage": "11%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "065",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "銀魚串燒",
+    "english_name": "Taitinncarp Brochette",
+    "ingredients": [
+      {
+        "ingredient": "銀魚",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "香草",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "檸檬",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "066",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "鹽烤香魚",
+    "english_name": "Roast Sweet Fish with Salt",
+    "ingredients": [
+      {
+        "ingredient": "香魚",
+        "percentage": "75%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "檸檬",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "067",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "烤鰻魚",
+    "english_name": "Grilled eels",
+    "ingredients": [
+      {
+        "ingredient": "八目鰻魚",
+        "percentage": "90%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "068",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "烤貝殼",
+    "english_name": "Roast Shellfish",
+    "ingredients": [
+      {
+        "ingredient": "貝殼",
+        "percentage": "90%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "069",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "鯛魚咖哩熱炒",
+    "english_name": "Curry Grilled Red Sea Beram",
+    "ingredients": [
+      {
+        "ingredient": "鯛魚",
+        "percentage": "78%"
+      },
+      {
+        "ingredient": "咖哩粉",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "7%"
+      }
+    ]
+  },
+  {
+    "id": "070",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "烤馬鈴薯",
+    "english_name": "Roasted Potato",
+    "ingredients": [
+      {
+        "ingredient": "馬鈴薯",
+        "percentage": "88%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "12%"
+      }
+    ]
+  },
+  {
+    "id": "071",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "燻烤太陽魚",
+    "english_name": "Smoked Sunfish",
+    "ingredients": [
+      {
+        "ingredient": "太陽魚",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "10%"
+      },
+      {
+        "ingredient": "胡椒",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "072",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "奶油烤龍蝦",
+    "english_name": "Butter Grilled Lobster",
+    "ingredients": [
+      {
+        "ingredient": "海龍蝦",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "奶油",
+        "percentage": "37%"
+      },
+      {
+        "ingredient": "蒜頭",
+        "percentage": "13%"
+      }
+    ]
+  },
+  {
+    "id": "073",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "草莓果醬吐司",
+    "english_name": "Simple Toast",
+    "ingredients": [
+      {
+        "ingredient": "牛奶麵包",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "草莓果醬",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "奶油",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "074",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "大蒜麵包",
+    "english_name": "Garlic Bread",
+    "ingredients": [
+      {
+        "ingredient": "麵包",
+        "percentage": "83%"
+      },
+      {
+        "ingredient": "蒜頭",
+        "percentage": "17%"
+      }
+    ]
+  },
+  {
+    "id": "075",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "全麥麵包",
+    "english_name": "Barley Bread",
+    "ingredients": [
+      {
+        "ingredient": "麥粉",
+        "percentage": "55%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "36%"
+      },
+      {
+        "ingredient": "酵母粉",
+        "percentage": "9%"
+      }
+    ]
+  },
+  {
+    "id": "076",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "吐司 (Tin Bread)",
+    "english_name": "Tin Bread",
+    "ingredients": [
+      {
+        "ingredient": "麵包粉麵糰",
+        "percentage": "83%"
+      },
+      {
+        "ingredient": "奶油",
+        "percentage": "17%"
+      }
+    ]
+  },
+  {
+    "id": "077",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "玉米烤餅",
+    "english_name": "Corn scone",
+    "ingredients": [
+      {
+        "ingredient": "麵包粉麵糰",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "玉米",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "078",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "玉米麵包",
+    "english_name": "corn bread",
+    "ingredients": [
+      {
+        "ingredient": "玉米麵包麵團",
+        "percentage": "75%"
+      },
+      {
+        "ingredient": "蛋",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "酵母粉",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "079",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "牛奶麵包",
+    "english_name": "Milk Bread",
+    "ingredients": [
+      {
+        "ingredient": "麵包粉麵糰",
+        "percentage": "68%"
+      },
+      {
+        "ingredient": "牛奶",
+        "percentage": "23%"
+      },
+      {
+        "ingredient": "奶油",
+        "percentage": "9%"
+      }
+    ]
+  },
+  {
+    "id": "080",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "火腿起司三明治",
+    "english_name": "Croque Monsieur",
+    "ingredients": [
+      {
+        "ingredient": "吐司 (Tin Bread)",
+        "percentage": "46%"
+      },
+      {
+        "ingredient": "肉塊",
+        "percentage": "27%"
+      },
+      {
+        "ingredient": "起司塊",
+        "percentage": "27%"
+      }
+    ]
+  },
+  {
+    "id": "081",
+    "category": "練習",
+    "type": "混合",
+    "name": "總匯三明治",
+    "english_name": "Club Sandwich",
+    "ingredients": [
+      {
+        "ingredient": "吐司 (Tin Bread)",
+        "percentage": "46%"
+      },
+      {
+        "ingredient": "高麗菜",
+        "percentage": "27%"
+      },
+      {
+        "ingredient": "花生奶油醬",
+        "percentage": "27%"
+      }
+    ]
+  },
+  {
+    "id": "082",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "法式鹹派",
+    "english_name": "quiche",
+    "ingredients": [
+      {
+        "ingredient": "蛋",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "巨大的乳酪塊",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "炒洋蔥",
+        "percentage": "30%"
+      }
+    ]
+  },
+  {
+    "id": "083",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "吐司 (Toast)",
+    "english_name": "Toast",
+    "ingredients": [
+      {
+        "ingredient": "吐司 (Tin Bread)",
+        "percentage": "79%"
+      },
+      {
+        "ingredient": "奶油",
+        "percentage": "21%"
+      }
+    ]
+  },
+  {
+    "id": "084",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "加藤巧克力",
+    "english_name": "Gateau Au Chocolat",
+    "ingredients": [
+      {
+        "ingredient": "麵粉",
+        "percentage": "38%"
+      },
+      {
+        "ingredient": "巧克力",
+        "percentage": "33%"
+      },
+      {
+        "ingredient": "蛋",
+        "percentage": "29%"
+      }
+    ]
+  },
+  {
+    "id": "085",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "哈哈蘑菇餅乾",
+    "english_name": "Smile Mushroom Cookie",
+    "ingredients": [
+      {
+        "ingredient": "蘑菇餅乾",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "料理藥水",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "棕色松茸",
+        "percentage": "25%"
+      }
+    ]
+  },
+  {
+    "id": "086",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "蘑菇餅乾",
+    "english_name": "mushroom cookie",
+    "ingredients": [
+      {
+        "ingredient": "麵粉",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "栗茸",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "087",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "奶油餅乾",
+    "english_name": "Butter Biscuit",
+    "ingredients": [
+      {
+        "ingredient": "麵粉",
+        "percentage": "46%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "27%"
+      },
+      {
+        "ingredient": "奶油",
+        "percentage": "27%"
+      }
+    ]
+  },
+  {
+    "id": "088",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "布朗尼",
+    "english_name": "Brownie",
+    "ingredients": [
+      {
+        "ingredient": "麵粉",
+        "percentage": "47%"
+      },
+      {
+        "ingredient": "巧克力",
+        "percentage": "48%"
+      },
+      {
+        "ingredient": "酵母粉",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "089",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "巧克力餅乾",
+    "english_name": "Chocochip Cookie",
+    "ingredients": [
+      {
+        "ingredient": "麵粉",
+        "percentage": "46%"
+      },
+      {
+        "ingredient": "材料巧克力",
+        "percentage": "27%"
+      },
+      {
+        "ingredient": "奶油",
+        "percentage": "27%"
+      }
+    ]
+  },
+  {
+    "id": "090",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "椰子餅乾",
+    "english_name": "coconut cookie",
+    "ingredients": [
+      {
+        "ingredient": "麵粉",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "椰子果",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "091",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "椰子奶油蛋糕",
+    "english_name": "Coconut pound cake",
+    "ingredients": [
+      {
+        "ingredient": "麵包粉麵糰",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "椰子果",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "蛋",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "092",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "丁骨牛排",
+    "english_name": "T-bone steak",
+    "ingredients": [
+      {
+        "ingredient": "巨大的肉塊",
+        "percentage": "76%"
+      },
+      {
+        "ingredient": "香草",
+        "percentage": "14%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "093",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "牛排",
+    "english_name": "Beefsteak",
+    "ingredients": [
+      {
+        "ingredient": "牛肉",
+        "percentage": "65%"
+      },
+      {
+        "ingredient": "蒜頭",
+        "percentage": "26%"
+      },
+      {
+        "ingredient": "胡椒",
+        "percentage": "9%"
+      }
+    ]
+  },
+  {
+    "id": "094",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "高傲牛排",
+    "english_name": "High Horse Steak",
+    "ingredients": [
+      {
+        "ingredient": "料理藥水",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "牛排",
+        "percentage": "30%"
+      }
+    ]
+  },
+  {
+    "id": "095",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "鱘魚魚排",
+    "english_name": "Sturgeon steak",
+    "ingredients": [
+      {
+        "ingredient": "鱘魚",
+        "percentage": "85%"
+      },
+      {
+        "ingredient": "胡椒",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "096",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "旗魚排",
+    "english_name": "Striped Marlin Steak",
+    "ingredients": [
+      {
+        "ingredient": "旗魚",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "10%"
+      },
+      {
+        "ingredient": "香草",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "097",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "鯖魚魚排",
+    "english_name": "Chub Mackerel Steak",
+    "ingredients": [
+      {
+        "ingredient": "鯖魚",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "12%"
+      },
+      {
+        "ingredient": "胡椒",
+        "percentage": "8%"
+      }
+    ]
+  },
+  {
+    "id": "098",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "飛魚薄餅",
+    "english_name": "Flying Fish Crape",
+    "ingredients": [
+      {
+        "ingredient": "飛魚",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "馬鈴薯",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "蛋",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "099",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "蘑菇焗烤",
+    "english_name": "mushroom gratin",
+    "ingredients": [
+      {
+        "ingredient": "栗茸",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "洋蔥",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "巨大的乳酪塊",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "100",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "烘培咖啡",
+    "english_name": "roasted bean",
+    "ingredients": [
+      {
+        "ingredient": "庫爾克勒咖啡果實",
+        "percentage": "90%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "101",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "煎蛋卷",
+    "english_name": "omelet",
+    "ingredients": [
+      {
+        "ingredient": "蛋",
+        "percentage": "55%"
+      },
+      {
+        "ingredient": "野菜拼盤",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "培根",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "102",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "起司焗烤",
+    "english_name": "Cheese Gratin",
+    "ingredients": [
+      {
+        "ingredient": "巨大的乳酪塊",
+        "percentage": "38%"
+      },
+      {
+        "ingredient": "起司麵包",
+        "percentage": "33%"
+      },
+      {
+        "ingredient": "蛋",
+        "percentage": "29%"
+      }
+    ]
+  },
+  {
+    "id": "103",
+    "category": "5",
+    "type": "蒸(火)",
+    "name": "燉鯰魚鮮貝",
+    "english_name": "Boiled Catfish and Shellfish",
+    "ingredients": [
+      {
+        "ingredient": "鯰魚",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "貝殼",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "蒜頭",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "104",
+    "category": "5",
+    "type": "蒸(火)",
+    "name": "炒蘑菇",
+    "english_name": "Steamed Mushroom",
+    "ingredients": [
+      {
+        "ingredient": "栗茸",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "105",
+    "category": "5",
+    "type": "蒸(火)",
+    "name": "魚翅蒸",
+    "english_name": "Boiled Shark's Fin",
+    "ingredients": [
+      {
+        "ingredient": "灰鯖鯊",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "36%"
+      },
+      {
+        "ingredient": "芹菜",
+        "percentage": "24%"
+      }
+    ]
+  },
+  {
+    "id": "106",
+    "category": "5",
+    "type": "蒸(火)",
+    "name": "布里赫燉鯉魚",
+    "english_name": "Boiled Brifne Carp",
+    "ingredients": [
+      {
+        "ingredient": "布里赫鯉魚",
+        "percentage": "75%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "17%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "8%"
+      }
+    ]
+  },
+  {
+    "id": "107",
+    "category": "5",
+    "type": "蒸(火)",
+    "name": "燉松魚",
+    "english_name": "Boiled Trout",
+    "ingredients": [
+      {
+        "ingredient": "七彩松魚",
+        "percentage": "55%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "36%"
+      },
+      {
+        "ingredient": "香草",
+        "percentage": "9%"
+      }
+    ]
+  },
+  {
+    "id": "108",
+    "category": "5",
+    "type": "蒸(火)",
+    "name": "清蒸琵琶魚",
+    "english_name": "Boiled Angler",
+    "ingredients": [
+      {
+        "ingredient": "琵琶魚",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "芹菜",
+        "percentage": "40%"
+      }
+    ]
+  },
+  {
+    "id": "109",
+    "category": "E",
+    "type": "熬(火)",
+    "name": "蒸的玉米",
+    "english_name": "steamed corn",
+    "ingredients": [
+      {
+        "ingredient": "玉米",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "110",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "紅酒燉雞",
+    "english_name": "Coq Au Vin",
+    "ingredients": [
+      {
+        "ingredient": "雞翅",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "艾明馬夏產紅酒",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "香草",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "111",
+    "category": "E",
+    "type": "熬(火)",
+    "name": "煮熟的馬鈴薯",
+    "english_name": "Boiled Potato",
+    "ingredients": [
+      {
+        "ingredient": "水瓶",
+        "percentage": "56%"
+      },
+      {
+        "ingredient": "馬鈴薯",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "4%"
+      }
+    ]
+  },
+  {
+    "id": "112",
+    "category": "E",
+    "type": "熬(火)",
+    "name": "煮熟的雞蛋",
+    "english_name": "Boiled Egg",
+    "ingredients": [
+      {
+        "ingredient": "水瓶",
+        "percentage": "61%"
+      },
+      {
+        "ingredient": "蛋",
+        "percentage": "34%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "113",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "咖哩飯",
+    "english_name": "Curry and Rice",
+    "ingredients": [
+      {
+        "ingredient": "白飯",
+        "percentage": "52%"
+      },
+      {
+        "ingredient": "咖哩糊",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "奶油",
+        "percentage": "13%"
+      }
+    ]
+  },
+  {
+    "id": "114",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "魟魚鰓泥",
+    "english_name": "Ray Gill Puree",
+    "ingredients": [
+      {
+        "ingredient": "魟魚",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "蒜頭",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "115",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "燉煮毒蘑菇",
+    "english_name": "Poison Mushroom Stew",
+    "ingredients": [
+      {
+        "ingredient": "棕色松茸",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "布里赫威士忌",
+        "percentage": "40%"
+      }
+    ]
+  },
+  {
+    "id": "116",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "蘑菇卡布其諾湯",
+    "english_name": "Mushroom Cappuccino Soup",
+    "ingredients": [
+      {
+        "ingredient": "栗茸",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "艾明馬夏產紅酒",
+        "percentage": "40%"
+      }
+    ]
+  },
+  {
+    "id": "117",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "蘑菇清湯",
+    "english_name": "Mushroom Consomme",
+    "ingredients": [
+      {
+        "ingredient": "栗茸",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "洋蔥",
+        "percentage": "40%"
+      }
+    ]
+  },
+  {
+    "id": "118",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "蘑菇濃湯",
+    "english_name": "Mushroom Potage",
+    "ingredients": [
+      {
+        "ingredient": "栗茸",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "30%"
+      }
+    ]
+  },
+  {
+    "id": "119",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "魚翅湯",
+    "english_name": "Shark's fin soup",
+    "ingredients": [
+      {
+        "ingredient": "蝦",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "蛋",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "淡水巨大肉食魚類",
+        "percentage": "25%"
+      }
+    ]
+  },
+  {
+    "id": "120",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "亞布內亞鯉魚湯",
+    "english_name": "Abb Neagh Carp Stew",
+    "ingredients": [
+      {
+        "ingredient": "亞布內亞鯉魚",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "米",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "121",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "蔬菜湯",
+    "english_name": "Vegetable soup",
+    "ingredients": [
+      {
+        "ingredient": "炒青菜",
+        "percentage": "52%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "38%"
+      },
+      {
+        "ingredient": "胡椒",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "122",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "蘑菇湯",
+    "english_name": "White Button Mushroom Soup",
+    "ingredients": [
+      {
+        "ingredient": "炒蘑菇",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "32%"
+      },
+      {
+        "ingredient": "胡椒",
+        "percentage": "8%"
+      }
+    ]
+  },
+  {
+    "id": "123",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "洋蔥湯",
+    "english_name": "Onion Soup",
+    "ingredients": [
+      {
+        "ingredient": "炒洋蔥",
+        "percentage": "54%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "33%"
+      },
+      {
+        "ingredient": "胡椒",
+        "percentage": "13%"
+      }
+    ]
+  },
+  {
+    "id": "124",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "玉米湯",
+    "english_name": "Corn soup",
+    "ingredients": [
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "55%"
+      },
+      {
+        "ingredient": "炒青菜",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "玉米",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "125",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "燉煮銀魚",
+    "english_name": "Taitinn Carp Stew",
+    "ingredients": [
+      {
+        "ingredient": "銀魚",
+        "percentage": "56%"
+      },
+      {
+        "ingredient": "馬鈴薯",
+        "percentage": "33%"
+      },
+      {
+        "ingredient": "蒜頭",
+        "percentage": "11%"
+      }
+    ]
+  },
+  {
+    "id": "126",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "松子粥",
+    "english_name": "Pinenut gruel",
+    "ingredients": [
+      {
+        "ingredient": "白飯",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "松子",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "127",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "雞肉麵清湯",
+    "english_name": "Chiken noodle consomme",
+    "ingredients": [
+      {
+        "ingredient": "清湯",
+        "percentage": "55%"
+      },
+      {
+        "ingredient": "麵條",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "雞翅",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "128",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "椰奶螃蟹湯",
+    "english_name": "coconut crab soup",
+    "ingredients": [
+      {
+        "ingredient": "清蒸帝王蟹",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "椰子果",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "炒蘑菇",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "129",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "清湯",
+    "english_name": "Consomme",
+    "ingredients": [
+      {
+        "ingredient": "野菜拼盤",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "肉塊",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "艾明馬夏產紅酒",
+        "percentage": "25%"
+      }
+    ]
+  },
+  {
+    "id": "130",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "清蒸帝王蟹",
+    "english_name": "Boiled King Crab",
+    "ingredients": [
+      {
+        "ingredient": "帝王蟹",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "芹菜",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "131",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "燉煮白帶魚",
+    "english_name": "Cutlassfish Stew",
+    "ingredients": [
+      {
+        "ingredient": "白帶魚",
+        "percentage": "47%"
+      },
+      {
+        "ingredient": "馬鈴薯",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "蒜頭",
+        "percentage": "23%"
+      }
+    ]
+  },
+  {
+    "id": "132",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "檸檬茶",
+    "english_name": "lemon tea",
+    "ingredients": [
+      {
+        "ingredient": "水瓶",
+        "percentage": "85%"
+      },
+      {
+        "ingredient": "檸檬",
+        "percentage": "10%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "133",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "羅勒茶",
+    "english_name": "basil tea",
+    "ingredients": [
+      {
+        "ingredient": "水瓶",
+        "percentage": "85%"
+      },
+      {
+        "ingredient": "羅勒",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "134",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "麥茶",
+    "english_name": "barley tea",
+    "ingredients": [
+      {
+        "ingredient": "水瓶",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "麥粉",
+        "percentage": "30%"
+      }
+    ]
+  },
+  {
+    "id": "135",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "熱牛奶",
+    "english_name": "steamed milk",
+    "ingredients": [
+      {
+        "ingredient": "牛奶",
+        "percentage": "90%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "136",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "濃縮咖啡",
+    "english_name": "Espresso",
+    "ingredients": [
+      {
+        "ingredient": "水瓶",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "烘培咖啡",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "137",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "玉米茶",
+    "english_name": "corn tea",
+    "ingredients": [
+      {
+        "ingredient": "水瓶",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "蒸的玉米",
+        "percentage": "30%"
+      }
+    ]
+  },
+  {
+    "id": "138",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "香草茶",
+    "english_name": "thyme tea",
+    "ingredients": [
+      {
+        "ingredient": "水瓶",
+        "percentage": "90%"
+      },
+      {
+        "ingredient": "香草",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "139",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "熱可可",
+    "english_name": "hot choco",
+    "ingredients": [
+      {
+        "ingredient": "巧克力",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "熱牛奶",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "140",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "金銀辣魚湯",
+    "english_name": "Spicy Fish Stew",
+    "ingredients": [
+      {
+        "ingredient": "金鱗魚",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "銀魚",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "辣椒粉",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "141",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "淚眼烏龍麵",
+    "english_name": "Gloomy Noodle",
+    "ingredients": [
+      {
+        "ingredient": "麵條",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "辣椒粉",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "料理藥水",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "142",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "香辣燉海鯛",
+    "english_name": "Spicy Sea Beram Stew",
+    "ingredients": [
+      {
+        "ingredient": "鯛魚",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "黑鯛",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "辣椒粉",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "143",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "心動的加藤巧克力",
+    "english_name": "Pit a Pat Gateau au Chocolat",
+    "ingredients": [
+      {
+        "ingredient": "加藤巧克力",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "料理藥水",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "巴雷斯威士忌",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "144",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "白飯",
+    "english_name": "Boiled Rice",
+    "ingredients": [
+      {
+        "ingredient": "米",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "40%"
+      }
+    ]
+  },
+  {
+    "id": "145",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "河豚鮮湯",
+    "english_name": "Puffer Fish Soup",
+    "ingredients": [
+      {
+        "ingredient": "水瓶",
+        "percentage": "52%"
+      },
+      {
+        "ingredient": "河豚",
+        "percentage": "38%"
+      },
+      {
+        "ingredient": "蒜頭",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "146",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "法式海鮮什錦",
+    "english_name": "Bouilla-Baisse",
+    "ingredients": [
+      {
+        "ingredient": "銀魚",
+        "percentage": "36%"
+      },
+      {
+        "ingredient": "蝦",
+        "percentage": "32%"
+      },
+      {
+        "ingredient": "艾明馬夏產紅酒",
+        "percentage": "32%"
+      }
+    ]
+  },
+  {
+    "id": "147",
+    "category": "7",
+    "type": "製作果醬(火)",
+    "name": "杜松子果凍",
+    "english_name": "Juniper jelly",
+    "ingredients": [
+      {
+        "ingredient": "砂糖",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "杜松子",
+        "percentage": "30%"
+      }
+    ]
+  },
+  {
+    "id": "148",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "起司醬",
+    "english_name": "Cheese Fondue",
+    "ingredients": [
+      {
+        "ingredient": "起司塊",
+        "percentage": "42%"
+      },
+      {
+        "ingredient": "馬鈴薯",
+        "percentage": "29%"
+      },
+      {
+        "ingredient": "肉塊",
+        "percentage": "29%"
+      }
+    ]
+  },
+  {
+    "id": "149",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "瘋狂巧克力球",
+    "english_name": "Crazy Chocoball",
+    "ingredients": [
+      {
+        "ingredient": "材料巧克力",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "料理藥水",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "胡椒",
+        "percentage": "25%"
+      }
+    ]
+  },
+  {
+    "id": "150",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "鯛魚辣湯",
+    "english_name": "Spicy Red Sea Bream Stew",
+    "ingredients": [
+      {
+        "ingredient": "鯛魚",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "辣椒粉",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "151",
+    "category": "A",
+    "type": "炸(火)",
+    "name": "薯條",
+    "english_name": "French Fried",
+    "ingredients": [
+      {
+        "ingredient": "馬鈴薯",
+        "percentage": "73%"
+      },
+      {
+        "ingredient": "麵衣",
+        "percentage": "18%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "9%"
+      }
+    ]
+  },
+  {
+    "id": "152",
+    "category": "A",
+    "type": "炸(火)",
+    "name": "炸雞翅膀",
+    "english_name": "Fried Chicken Wing",
+    "ingredients": [
+      {
+        "ingredient": "雞翅",
+        "percentage": "71%"
+      },
+      {
+        "ingredient": "麵衣",
+        "percentage": "24%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "153",
+    "category": "A",
+    "type": "炸(火)",
+    "name": "炸物拼盤",
+    "english_name": "Mixed chips",
+    "ingredients": [
+      {
+        "ingredient": "野菜拼盤",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "培根",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "麵衣",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "154",
+    "category": "A",
+    "type": "炸(火)",
+    "name": "炸胡瓜魚",
+    "english_name": "Fried pondsmelt",
+    "ingredients": [
+      {
+        "ingredient": "胡瓜魚",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "麵衣",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "155",
+    "category": "A",
+    "type": "炸(火)",
+    "name": "炸蝦",
+    "english_name": "Fried Shrimp",
+    "ingredients": [
+      {
+        "ingredient": "蝦",
+        "percentage": "59%"
+      },
+      {
+        "ingredient": "麵衣",
+        "percentage": "32%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "9%"
+      }
+    ]
+  },
+  {
+    "id": "156",
+    "category": "A",
+    "type": "炸(火)",
+    "name": "亞布內亞炸鯉魚",
+    "english_name": "Fried Abb Neagh Carp",
+    "ingredients": [
+      {
+        "ingredient": "亞布內亞鯉魚",
+        "percentage": "65%"
+      },
+      {
+        "ingredient": "麵衣",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "157",
+    "category": "A",
+    "type": "炸(火)",
+    "name": "炸洋蔥",
+    "english_name": "Fried onion",
+    "ingredients": [
+      {
+        "ingredient": "洋蔥",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "麵衣",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "158",
+    "category": "9",
+    "type": "炒(火)",
+    "name": "醃蘑菇",
+    "english_name": "mushroom marinade",
+    "ingredients": [
+      {
+        "ingredient": "栗茸",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "椰子果",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "麵衣",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "159",
+    "category": "A",
+    "type": "炸(火)",
+    "name": "玉米片",
+    "english_name": "Corn chip",
+    "ingredients": [
+      {
+        "ingredient": "玉米麵包麵團",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "160",
+    "category": "A",
+    "type": "炸(火)",
+    "name": "魚與薄片",
+    "english_name": "Fish and Chips",
+    "ingredients": [
+      {
+        "ingredient": "銀魚",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "馬鈴薯",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "麵衣",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "161",
+    "category": "9",
+    "type": "炒(火)",
+    "name": "炒青菜",
+    "english_name": "Fried Vegetables",
+    "ingredients": [
+      {
+        "ingredient": "高麗菜",
+        "percentage": "46%"
+      },
+      {
+        "ingredient": "紅蘿蔔",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "洋蔥",
+        "percentage": "24%"
+      }
+    ]
+  },
+  {
+    "id": "162",
+    "category": "9",
+    "type": "炒(火)",
+    "name": "炒蘑菇",
+    "english_name": "Fried White Button Mushroom",
+    "ingredients": [
+      {
+        "ingredient": "蘑菇",
+        "percentage": "64%"
+      },
+      {
+        "ingredient": "蒜頭",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "11%"
+      }
+    ]
+  },
+  {
+    "id": "163",
+    "category": "9",
+    "type": "炒(火)",
+    "name": "炒洋蔥",
+    "english_name": "Fried Onion",
+    "ingredients": [
+      {
+        "ingredient": "洋蔥",
+        "percentage": "48%"
+      },
+      {
+        "ingredient": "蒜頭",
+        "percentage": "39%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "13%"
+      }
+    ]
+  },
+  {
+    "id": "164",
+    "category": "8",
+    "type": "製作義大利麵",
+    "name": "番茄魚醬義大利麵",
+    "english_name": "Tomato Pescatore",
+    "ingredients": [
+      {
+        "ingredient": "長義大利麵食",
+        "percentage": "55%"
+      },
+      {
+        "ingredient": "蕃茄",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "洋蔥",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "165",
+    "category": "9",
+    "type": "炒(火)",
+    "name": "爆米花",
+    "english_name": "Popcorn",
+    "ingredients": [
+      {
+        "ingredient": "玉米",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "奶油",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "166",
+    "category": "9",
+    "type": "炒(火)",
+    "name": "拼盤炒飯",
+    "english_name": "Mixed fried rice",
+    "ingredients": [
+      {
+        "ingredient": "白飯",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "野菜拼盤",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "培根",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "167",
+    "category": "9",
+    "type": "炒(火)",
+    "name": "蘑菇炒飯",
+    "english_name": "Mushroom fried rice",
+    "ingredients": [
+      {
+        "ingredient": "白飯",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "野菜拼盤",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "蘑菇",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "168",
+    "category": "9",
+    "type": "炒(火)",
+    "name": "蝦仁炒飯",
+    "english_name": "Shrimp Fried Rice",
+    "ingredients": [
+      {
+        "ingredient": "白飯",
+        "percentage": "65%"
+      },
+      {
+        "ingredient": "蝦",
+        "percentage": "26%"
+      },
+      {
+        "ingredient": "蛋",
+        "percentage": "9%"
+      }
+    ]
+  },
+  {
+    "id": "169",
+    "category": "9",
+    "type": "炒(火)",
+    "name": "友情的蝦仁炒飯",
+    "english_name": "Friendship Shrimp Fried Rice",
+    "ingredients": [
+      {
+        "ingredient": "蝦仁炒飯",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "炸蝦",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "料理藥水",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "170",
+    "category": "7",
+    "type": "製作果醬(火)",
+    "name": "草莓果醬",
+    "english_name": "Strawberry Jam",
+    "ingredients": [
+      {
+        "ingredient": "草莓",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "檸檬原汁",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "171",
+    "category": "7",
+    "type": "製作果醬(火)",
+    "name": "花生奶油醬",
+    "english_name": "Peanut Jam",
+    "ingredients": [
+      {
+        "ingredient": "花生",
+        "percentage": "59%"
+      },
+      {
+        "ingredient": "橄欖油",
+        "percentage": "27%"
+      },
+      {
+        "ingredient": "奶油",
+        "percentage": "14%"
+      }
+    ]
+  },
+  {
+    "id": "172",
+    "category": "7",
+    "type": "製作果醬(火)",
+    "name": "蘋果果醬",
+    "english_name": "Apple Jam",
+    "ingredients": [
+      {
+        "ingredient": "蘋果",
+        "percentage": "65%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "173",
+    "category": "7",
+    "type": "製作果醬(火)",
+    "name": "葡萄果醬",
+    "english_name": "Grape Jam",
+    "ingredients": [
+      {
+        "ingredient": "葡萄",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "174",
+    "category": "7",
+    "type": "製作果醬(火)",
+    "name": "南瓜果醬",
+    "english_name": "Pumpkin Jam",
+    "ingredients": [
+      {
+        "ingredient": "老南瓜",
+        "percentage": "66%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "29%"
+      },
+      {
+        "ingredient": "檸檬原汁",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "175",
+    "category": "6",
+    "type": "製作派",
+    "name": "蘋果鬆餅",
+    "english_name": "Apple Pie",
+    "ingredients": [
+      {
+        "ingredient": "皮模板",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "蘋果",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "176",
+    "category": "6",
+    "type": "製作派",
+    "name": "核桃派",
+    "english_name": "Pecan Pie",
+    "ingredients": [
+      {
+        "ingredient": "山核桃",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "皮模板",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "蛋",
+        "percentage": "30%"
+      }
+    ]
+  },
+  {
+    "id": "177",
+    "category": "6",
+    "type": "製作派",
+    "name": "蛋塔",
+    "english_name": "Egg Tarte",
+    "ingredients": [
+      {
+        "ingredient": "撻模板",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "蛋",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "30%"
+      }
+    ]
+  },
+  {
+    "id": "178",
+    "category": "6",
+    "type": "製作派",
+    "name": "南瓜蛋塔",
+    "english_name": "Pumpkin Tarte",
+    "ingredients": [
+      {
+        "ingredient": "撻模板",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "老南瓜",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "179",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "烤白的龍心臟",
+    "english_name": "Grilled Heart of Dragon in White",
+    "ingredients": [
+      {
+        "ingredient": "白龍的心臟",
+        "percentage": "75%"
+      },
+      {
+        "ingredient": "龍的肉塊",
+        "percentage": "18%"
+      },
+      {
+        "ingredient": "白龍的血",
+        "percentage": "7%"
+      }
+    ]
+  },
+  {
+    "id": "180",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "烤黑的龍心臟",
+    "english_name": "Grilled Heart of Dragon in Black",
+    "ingredients": [
+      {
+        "ingredient": "黑龍的心臟",
+        "percentage": "75%"
+      },
+      {
+        "ingredient": "龍的肉塊",
+        "percentage": "18%"
+      },
+      {
+        "ingredient": "黑龍的血",
+        "percentage": "7%"
+      }
+    ]
+  },
+  {
+    "id": "181",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "龍丁骨牛排",
+    "english_name": "Dragon T-bone steak",
+    "ingredients": [
+      {
+        "ingredient": "龍的肉塊",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "龍的骨頭",
+        "percentage": "30%"
+      }
+    ]
+  },
+  {
+    "id": "182",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "龍血白酒",
+    "english_name": "Dragon Blood White Wine",
+    "ingredients": [
+      {
+        "ingredient": "白龍的血",
+        "percentage": "94%"
+      },
+      {
+        "ingredient": "龍的肉塊",
+        "percentage": "6%"
+      }
+    ]
+  },
+  {
+    "id": "183",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "龍血紅酒",
+    "english_name": "Dragon Blood Red Wine",
+    "ingredients": [
+      {
+        "ingredient": "黑龍的血",
+        "percentage": "94%"
+      },
+      {
+        "ingredient": "龍的肉塊",
+        "percentage": "6%"
+      }
+    ]
+  },
+  {
+    "id": "184",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "年糕湯",
+    "english_name": "Tteokguk",
+    "ingredients": [
+      {
+        "ingredient": "白色米糕",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "牛肉",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "蛋",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "185",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "雙人份年糕湯",
+    "english_name": "Double Size Tteokguk",
+    "ingredients": [
+      {
+        "ingredient": "年糕湯",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "白色米糕",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "蛋",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "186",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "特大年糕湯",
+    "english_name": "Super Size Tteokguk",
+    "ingredients": [
+      {
+        "ingredient": "雙人份年糕湯",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "白色米糕",
+        "percentage": "12%"
+      },
+      {
+        "ingredient": "蛋",
+        "percentage": "8%"
+      }
+    ]
+  },
+  {
+    "id": "187",
+    "category": "6",
+    "type": "製作派",
+    "name": "月餅",
+    "english_name": "Moon Cake",
+    "ingredients": [
+      {
+        "ingredient": "麵包粉麵糰",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "豆沙餡兒",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "花生",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "188",
+    "category": "6",
+    "type": "製作派",
+    "name": "大月餅",
+    "english_name": "Double Size Moon Cake",
+    "ingredients": [
+      {
+        "ingredient": "月餅",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "豆沙餡兒",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "花生",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "189",
+    "category": "6",
+    "type": "製作派",
+    "name": "特大月餅",
+    "english_name": "Super Size Moon Ckae",
+    "ingredients": [
+      {
+        "ingredient": "大月餅",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "豆沙餡兒",
+        "percentage": "12%"
+      },
+      {
+        "ingredient": "花生",
+        "percentage": "8%"
+      }
+    ]
+  },
+  {
+    "id": "190",
+    "category": "7",
+    "type": "製作果醬(火)",
+    "name": "萬聖節南瓜糖",
+    "english_name": "Halloween Pumpkin Candy",
+    "ingredients": [
+      {
+        "ingredient": "砂糖",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "老南瓜",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "糖漿",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "191",
+    "category": "練習",
+    "type": "混合",
+    "name": "萬聖節包裝糖",
+    "english_name": "Halloween Candy Box",
+    "ingredients": [
+      {
+        "ingredient": "萬聖節幽靈果凍",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "萬聖節南瓜果凍",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "萬聖節南瓜糖",
+        "percentage": "30%"
+      }
+    ]
+  },
+  {
+    "id": "192",
+    "category": "7",
+    "type": "製作果醬(火)",
+    "name": "萬聖節南瓜巧克力",
+    "english_name": "Halloween Pumpkin Chocolate",
+    "ingredients": [
+      {
+        "ingredient": "材料巧克力",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "老南瓜",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "193",
+    "category": "練習",
+    "type": "混合",
+    "name": "萬聖節包製餅乾",
+    "english_name": "Halloween Cookie Box",
+    "ingredients": [
+      {
+        "ingredient": "萬聖節帽子餅乾",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "萬聖節星星餅乾",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "萬聖節貓頭鷹餅乾",
+        "percentage": "35%"
+      }
+    ]
+  },
+  {
+    "id": "194",
+    "category": "6",
+    "type": "製作派",
+    "name": "萬聖節南瓜派",
+    "english_name": "Halloween Pumpkin Pie",
+    "ingredients": [
+      {
+        "ingredient": "皮模板",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "南瓜泥",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "杏仁",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "195",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "萬聖節帽子餅乾",
+    "english_name": "Halloween Hat Cookie",
+    "ingredients": [
+      {
+        "ingredient": "麵粉",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "奶油",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "帽子樣子框",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "196",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "萬聖節星星餅乾",
+    "english_name": "Halloween Star Cookie",
+    "ingredients": [
+      {
+        "ingredient": "麵粉",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "奶油",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "星星樣子框",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "197",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "萬聖節貓頭鷹餅乾",
+    "english_name": "Halloween Owl Cookie",
+    "ingredients": [
+      {
+        "ingredient": "麵粉",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "奶油",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "貓頭鷹樣子框",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "198",
+    "category": "7",
+    "type": "製作果醬(火)",
+    "name": "萬聖節幽靈果凍",
+    "english_name": "Halloween Ghost Jelly",
+    "ingredients": [
+      {
+        "ingredient": "膠原蛋白",
+        "percentage": "85%"
+      },
+      {
+        "ingredient": "檸檬",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "199",
+    "category": "7",
+    "type": "製作果醬(火)",
+    "name": "萬聖節南瓜果凍",
+    "english_name": "Halloween Pumpkin Jelly",
+    "ingredients": [
+      {
+        "ingredient": "膠原蛋白",
+        "percentage": "85%"
+      },
+      {
+        "ingredient": "老南瓜",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "200",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "煎水餃",
+    "english_name": "Fried Bun",
+    "ingredients": [
+      {
+        "ingredient": "麵粉",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "肉塊",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "韭菜",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "201",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "煎水餃兩人份",
+    "english_name": "Double Size Fried Bun",
+    "ingredients": [
+      {
+        "ingredient": "煎水餃",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "肉塊",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "韭菜",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "202",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "特大煎水餃",
+    "english_name": "Super Size Fried Bun",
+    "ingredients": [
+      {
+        "ingredient": "煎水餃兩人份",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "肉塊",
+        "percentage": "12%"
+      },
+      {
+        "ingredient": "韭菜",
+        "percentage": "8%"
+      }
+    ]
+  },
+  {
+    "id": "203",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "烤的米糕",
+    "english_name": "Roast Rice-Cake",
+    "ingredients": [
+      {
+        "ingredient": "白色米糕",
+        "percentage": "100%"
+      }
+    ]
+  },
+  {
+    "id": "204",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "星運餅乾",
+    "english_name": "Fortune Cookie",
+    "ingredients": [
+      {
+        "ingredient": "麵粉",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "奶油",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "蛋",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "205",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "烤火雞",
+    "english_name": "Roast Turkey",
+    "ingredients": [
+      {
+        "ingredient": "火雞肉",
+        "percentage": "90%"
+      },
+      {
+        "ingredient": "橄欖油",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "206",
+    "category": "練習",
+    "type": "混合",
+    "name": "Tara式火腿三明治",
+    "english_name": "Tara Sausage Sandwich",
+    "ingredients": [
+      {
+        "ingredient": "熱狗",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "大蒜麵包",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "高麗菜",
+        "percentage": "30%"
+      }
+    ]
+  },
+  {
+    "id": "207",
+    "category": "5",
+    "type": "蒸(火)",
+    "name": "松葉餃",
+    "english_name": "Songpyeon",
+    "ingredients": [
+      {
+        "ingredient": "米",
+        "percentage": "75%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "18%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "7%"
+      }
+    ]
+  },
+  {
+    "id": "208",
+    "category": "6",
+    "type": "製作派",
+    "name": "松露派",
+    "english_name": "Truffes Pie",
+    "ingredients": [
+      {
+        "ingredient": "皮模板",
+        "percentage": "75%"
+      },
+      {
+        "ingredient": "松露菇",
+        "percentage": "25%"
+      }
+    ]
+  },
+  {
+    "id": "209",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "巧克力蛋奶酥",
+    "english_name": "Chocolate Souffle",
+    "ingredients": [
+      {
+        "ingredient": "材料巧克力",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "麵粉",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "牛奶",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "210",
+    "category": "練習",
+    "type": "混合",
+    "name": "芹菜沙拉",
+    "english_name": "Celery Salad",
+    "ingredients": [
+      {
+        "ingredient": "高麗菜",
+        "percentage": "38%"
+      },
+      {
+        "ingredient": "芹菜",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "紅蘿蔔",
+        "percentage": "27%"
+      }
+    ]
+  },
+  {
+    "id": "211",
+    "category": "B",
+    "type": "製作麵條",
+    "name": "雞炒麵",
+    "english_name": "Chicken Fried-Noodles",
+    "ingredients": [
+      {
+        "ingredient": "麵條",
+        "percentage": "65%"
+      },
+      {
+        "ingredient": "雞肉",
+        "percentage": "27%"
+      },
+      {
+        "ingredient": "紅甜椒",
+        "percentage": "8%"
+      }
+    ]
+  },
+  {
+    "id": "212",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "烤玉米",
+    "english_name": "Roast Corn",
+    "ingredients": [
+      {
+        "ingredient": "玉米",
+        "percentage": "95%"
+      },
+      {
+        "ingredient": "奶油",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "213",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "3層鬆餅",
+    "english_name": "3-fold Pancake",
+    "ingredients": [
+      {
+        "ingredient": "鬆餅",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "果實",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "214",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "巧克力蛋糕",
+    "english_name": "Chocolate Cake",
+    "ingredients": [
+      {
+        "ingredient": "麵粉",
+        "percentage": "65%"
+      },
+      {
+        "ingredient": "材料巧克力",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "215",
+    "category": "E",
+    "type": "熬(火)",
+    "name": "蔘雞湯",
+    "english_name": "Samgyetang",
+    "ingredients": [
+      {
+        "ingredient": "雞肉",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "米",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "216",
+    "category": "7",
+    "type": "製作果醬(火)",
+    "name": "傳統麥芽糖",
+    "english_name": "Garakyeot",
+    "ingredients": [
+      {
+        "ingredient": "麥芽",
+        "percentage": "73%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "米",
+        "percentage": "7%"
+      }
+    ]
+  },
+  {
+    "id": "217",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "巨大的星星糖",
+    "english_name": "Big Star-Candy",
+    "ingredients": [
+      {
+        "ingredient": "砂糖",
+        "percentage": "65%"
+      },
+      {
+        "ingredient": "料理藥水",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "218",
+    "category": "E",
+    "type": "熬(火)",
+    "name": "煮過的地瓜",
+    "english_name": "Boiled Sweet Potato",
+    "ingredients": [
+      {
+        "ingredient": "地瓜",
+        "percentage": "85%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "219",
+    "category": "E",
+    "type": "熬(火)",
+    "name": "煮過的豆",
+    "english_name": "Boiled Bean",
+    "ingredients": [
+      {
+        "ingredient": "豆",
+        "percentage": "85%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "220",
+    "category": "E",
+    "type": "熬(火)",
+    "name": "煮過的章魚",
+    "english_name": "Boiled Octopus",
+    "ingredients": [
+      {
+        "ingredient": "章魚",
+        "percentage": "85%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "221",
+    "category": "E",
+    "type": "熬(火)",
+    "name": "煮過的高麗菜",
+    "english_name": "Boiled Cabbage",
+    "ingredients": [
+      {
+        "ingredient": "高麗菜",
+        "percentage": "85%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "222",
+    "category": "E",
+    "type": "熬(火)",
+    "name": "煮過的栗子",
+    "english_name": "Boiled Chestnut",
+    "ingredients": [
+      {
+        "ingredient": "栗子",
+        "percentage": "85%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "223",
+    "category": "5",
+    "type": "蒸(火)",
+    "name": "白色米糕",
+    "english_name": "White Rice-Cake",
+    "ingredients": [
+      {
+        "ingredient": "米",
+        "percentage": "90%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "224",
+    "category": "6",
+    "type": "製作派",
+    "name": "肉派",
+    "english_name": "Meat Pie",
+    "ingredients": [
+      {
+        "ingredient": "皮模板",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "巨大的肉塊",
+        "percentage": "38%"
+      },
+      {
+        "ingredient": "肉醬料",
+        "percentage": "12%"
+      }
+    ]
+  },
+  {
+    "id": "225",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "鬆餅",
+    "english_name": "Pancake",
+    "ingredients": [
+      {
+        "ingredient": "麵粉",
+        "percentage": "75%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "17%"
+      },
+      {
+        "ingredient": "牛奶",
+        "percentage": "8%"
+      }
+    ]
+  },
+  {
+    "id": "226",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "熱狗",
+    "english_name": "Sausage",
+    "ingredients": [
+      {
+        "ingredient": "肉塊",
+        "percentage": "85%"
+      },
+      {
+        "ingredient": "洋蔥",
+        "percentage": "10%"
+      },
+      {
+        "ingredient": "麵粉",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "227",
+    "category": "B",
+    "type": "製作麵條",
+    "name": "炒海鮮烏龍麵",
+    "english_name": "Seafood Stir-Fried Noodles",
+    "ingredients": [
+      {
+        "ingredient": "麵條",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "野菜拼盤",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "貝殼",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "228",
+    "category": "B",
+    "type": "製作麵條",
+    "name": "九層塔炒豬肉",
+    "english_name": "Phat-thai",
+    "ingredients": [
+      {
+        "ingredient": "麵條",
+        "percentage": "75%"
+      },
+      {
+        "ingredient": "野菜拼盤",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "醬油",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "229",
+    "category": "B",
+    "type": "製作麵條",
+    "name": "炸蝦烏龍麵",
+    "english_name": "Shrimp Tempura Udon",
+    "ingredients": [
+      {
+        "ingredient": "麵條",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "湯頭",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "炸蝦",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "230",
+    "category": "B",
+    "type": "製作麵條",
+    "name": "烤熟的豆子麵",
+    "english_name": "Cold Baked Bean-soup Noodles",
+    "ingredients": [
+      {
+        "ingredient": "素麵",
+        "percentage": "75%"
+      },
+      {
+        "ingredient": "烤熟的豆子水",
+        "percentage": "25%"
+      }
+    ]
+  },
+  {
+    "id": "231",
+    "category": "B",
+    "type": "製作麵條",
+    "name": "剝了皮的豆子麵",
+    "english_name": "Cold Scaled Bean-soup Noodles",
+    "ingredients": [
+      {
+        "ingredient": "素麵",
+        "percentage": "75%"
+      },
+      {
+        "ingredient": "剝了皮的豆子水",
+        "percentage": "25%"
+      }
+    ]
+  },
+  {
+    "id": "232",
+    "category": "B",
+    "type": "製作麵條",
+    "name": "泡水的豆子麵",
+    "english_name": "Cold Macerated Bean-soup Noodles",
+    "ingredients": [
+      {
+        "ingredient": "素麵",
+        "percentage": "75%"
+      },
+      {
+        "ingredient": "泡水的豆子水",
+        "percentage": "25%"
+      }
+    ]
+  },
+  {
+    "id": "233",
+    "category": "B",
+    "type": "製作麵條",
+    "name": "宴會麵",
+    "english_name": "Banquet Noodles",
+    "ingredients": [
+      {
+        "ingredient": "素麵",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "湯頭",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "野菜拼盤",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "234",
+    "category": "B",
+    "type": "製作麵條",
+    "name": "咖哩烏龍麵",
+    "english_name": "Curry Udon",
+    "ingredients": [
+      {
+        "ingredient": "麵條",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "咖哩粉",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "235",
+    "category": "B",
+    "type": "製作麵條",
+    "name": "豆腐麵",
+    "english_name": "Tofu Noodles",
+    "ingredients": [
+      {
+        "ingredient": "素麵",
+        "percentage": "43%"
+      },
+      {
+        "ingredient": "湯頭",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "焦掉烤熟的豆腐",
+        "percentage": "17%"
+      }
+    ]
+  },
+  {
+    "id": "236",
+    "category": "B",
+    "type": "製作麵條",
+    "name": "豆腐麵",
+    "english_name": "Tofu Noodles",
+    "ingredients": [
+      {
+        "ingredient": "素麵",
+        "percentage": "43%"
+      },
+      {
+        "ingredient": "湯頭",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "焦掉的剝皮豆腐",
+        "percentage": "17%"
+      }
+    ]
+  },
+  {
+    "id": "237",
+    "category": "B",
+    "type": "製作麵條",
+    "name": "豆腐麵",
+    "english_name": "Tofu Noodles",
+    "ingredients": [
+      {
+        "ingredient": "素麵",
+        "percentage": "43%"
+      },
+      {
+        "ingredient": "湯頭",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "焦掉的泡水豆腐",
+        "percentage": "17%"
+      }
+    ]
+  },
+  {
+    "id": "238",
+    "category": "5",
+    "type": "蒸(火)",
+    "name": "燉蛋",
+    "english_name": "Steamed Egg",
+    "ingredients": [
+      {
+        "ingredient": "蛋",
+        "percentage": "88%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "11%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "1%"
+      }
+    ]
+  },
+  {
+    "id": "239",
+    "category": "5",
+    "type": "蒸(火)",
+    "name": "燉豬排",
+    "english_name": "Steamed Pork Ribs",
+    "ingredients": [
+      {
+        "ingredient": "巨大的肉塊",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "肉醬料",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "野菜拼盤",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "240",
+    "category": "5",
+    "type": "蒸(火)",
+    "name": "燉南瓜豬排",
+    "english_name": "Steamed Sweet Pumpkins&Ribs",
+    "ingredients": [
+      {
+        "ingredient": "南瓜",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "肉塊",
+        "percentage": "17%"
+      },
+      {
+        "ingredient": "肉醬料",
+        "percentage": "3%"
+      }
+    ]
+  },
+  {
+    "id": "241",
+    "category": "5",
+    "type": "蒸(火)",
+    "name": "燉茄子",
+    "english_name": "Steamed Eggplant",
+    "ingredients": [
+      {
+        "ingredient": "茄子",
+        "percentage": "95%"
+      },
+      {
+        "ingredient": "蒜頭",
+        "percentage": "3%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "2%"
+      }
+    ]
+  },
+  {
+    "id": "242",
+    "category": "5",
+    "type": "蒸(火)",
+    "name": "燉南瓜海鮮",
+    "english_name": "Steamed Sweet Pumpkins&Seafood",
+    "ingredients": [
+      {
+        "ingredient": "南瓜",
+        "percentage": "75%"
+      },
+      {
+        "ingredient": "章魚",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "蝦",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "243",
+    "category": "5",
+    "type": "蒸(火)",
+    "name": "燉蔬菜雞",
+    "english_name": "Steamed Vegetable&Chicken",
+    "ingredients": [
+      {
+        "ingredient": "雞肉",
+        "percentage": "75%"
+      },
+      {
+        "ingredient": "野菜拼盤",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "肉醬料",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "244",
+    "category": "5",
+    "type": "蒸(火)",
+    "name": "燉包子",
+    "english_name": "Steamed Dumpling",
+    "ingredients": [
+      {
+        "ingredient": "麵粉",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "肉塊",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "韭菜",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "245",
+    "category": "5",
+    "type": "蒸(火)",
+    "name": "燉高麗菜豆",
+    "english_name": "Steamed Cabbage&Bean",
+    "ingredients": [
+      {
+        "ingredient": "高麗菜",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "豆",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "246",
+    "category": "8",
+    "type": "製作義大利麵",
+    "name": "蒜油義大利麵",
+    "english_name": "Aglio E Olio",
+    "ingredients": [
+      {
+        "ingredient": "長義大利麵食",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "蒜頭",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "橄欖油",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "247",
+    "category": "8",
+    "type": "製作義大利麵",
+    "name": "奶油培根義大利麵",
+    "english_name": "Carbonara",
+    "ingredients": [
+      {
+        "ingredient": "長義大利麵食",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "義大利麵材料拼盤",
+        "percentage": "17%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "3%"
+      }
+    ]
+  },
+  {
+    "id": "248",
+    "category": "8",
+    "type": "製作義大利麵",
+    "name": "蕃茄培根義大利麵",
+    "english_name": "Amatiriciana",
+    "ingredients": [
+      {
+        "ingredient": "短義大利麵食",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "番茄調味料",
+        "percentage": "18%"
+      },
+      {
+        "ingredient": "辣的辣椒",
+        "percentage": "2%"
+      }
+    ]
+  },
+  {
+    "id": "249",
+    "category": "8",
+    "type": "製作義大利麵",
+    "name": "蛤蜊鮮貝義大利麵",
+    "english_name": "Vongole",
+    "ingredients": [
+      {
+        "ingredient": "短義大利麵食",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "貝殼",
+        "percentage": "18%"
+      },
+      {
+        "ingredient": "橄欖油",
+        "percentage": "2%"
+      }
+    ]
+  },
+  {
+    "id": "250",
+    "category": "8",
+    "type": "製作義大利麵",
+    "name": "麵包濃湯",
+    "english_name": "Pane",
+    "ingredients": [
+      {
+        "ingredient": "麵包",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "長義大利麵食",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "251",
+    "category": "6",
+    "type": "製作派",
+    "name": "胡桃派",
+    "english_name": "Walnut Pie",
+    "ingredients": [
+      {
+        "ingredient": "皮模板",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "核桃",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "奶油",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "252",
+    "category": "6",
+    "type": "製作派",
+    "name": "地瓜派",
+    "english_name": "Sweet Potato Pie",
+    "ingredients": [
+      {
+        "ingredient": "地瓜",
+        "percentage": "55%"
+      },
+      {
+        "ingredient": "皮模板",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "蛋",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "253",
+    "category": "6",
+    "type": "製作派",
+    "name": "杏仁派",
+    "english_name": "Almond Pie",
+    "ingredients": [
+      {
+        "ingredient": "皮模板",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "杏仁",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "蛋",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "254",
+    "category": "6",
+    "type": "製作派",
+    "name": "杏仁草莓果醬蛋塔",
+    "english_name": "Almond Tart with Strawberry Jam",
+    "ingredients": [
+      {
+        "ingredient": "撻模板",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "草莓果醬",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "杏仁",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "255",
+    "category": "7",
+    "type": "製作果醬(火)",
+    "name": "藍梅果醬",
+    "english_name": "Blueberry Jam",
+    "ingredients": [
+      {
+        "ingredient": "藍梅",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "30%"
+      }
+    ]
+  },
+  {
+    "id": "256",
+    "category": "7",
+    "type": "製作果醬(火)",
+    "name": "橘子果醬",
+    "english_name": "Orange Marmalade",
+    "ingredients": [
+      {
+        "ingredient": "柳丁",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "257",
+    "category": "7",
+    "type": "製作果醬(火)",
+    "name": "檸檬果醬",
+    "english_name": "Lemon Jam",
+    "ingredients": [
+      {
+        "ingredient": "檸檬",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "258",
+    "category": "9",
+    "type": "炒(火)",
+    "name": "義大利麵材料拼盤",
+    "english_name": "Pasta Ingredient",
+    "ingredients": [
+      {
+        "ingredient": "洋蔥",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "培根",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "蒜頭",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "259",
+    "category": "9",
+    "type": "炒(火)",
+    "name": "炒火腿蔬菜",
+    "english_name": "Stir-Fried Sausage&Vegetables",
+    "ingredients": [
+      {
+        "ingredient": "熱狗",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "洋蔥",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "紅蘿蔔",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "260",
+    "category": "9",
+    "type": "炒(火)",
+    "name": "炒茄子",
+    "english_name": "Stir-Fried Eggplant",
+    "ingredients": [
+      {
+        "ingredient": "茄子",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "洋蔥",
+        "percentage": "10%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "261",
+    "category": "9",
+    "type": "炒(火)",
+    "name": "炒章魚",
+    "english_name": "Stir-Fried Small Octopus",
+    "ingredients": [
+      {
+        "ingredient": "章魚",
+        "percentage": "75%"
+      },
+      {
+        "ingredient": "高麗菜",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "辣椒粉",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "262",
+    "category": "A",
+    "type": "炸(火)",
+    "name": "炸地瓜",
+    "english_name": "Fried Sweet Potato",
+    "ingredients": [
+      {
+        "ingredient": "地瓜",
+        "percentage": "75%"
+      },
+      {
+        "ingredient": "麵衣",
+        "percentage": "25%"
+      }
+    ]
+  },
+  {
+    "id": "263",
+    "category": "A",
+    "type": "炸(火)",
+    "name": "馬鈴薯可樂餅",
+    "english_name": "Potato Croquette",
+    "ingredients": [
+      {
+        "ingredient": "煮熟的馬鈴薯",
+        "percentage": "65%"
+      },
+      {
+        "ingredient": "肉塊",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "麵包粉",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "264",
+    "category": "A",
+    "type": "炸(火)",
+    "name": "拔絲地瓜",
+    "english_name": "Sweet potato Mat-Tang",
+    "ingredients": [
+      {
+        "ingredient": "地瓜",
+        "percentage": "85%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "265",
+    "category": "A",
+    "type": "炸(火)",
+    "name": "豬排",
+    "english_name": "Pork Cutlet",
+    "ingredients": [
+      {
+        "ingredient": "肉塊",
+        "percentage": "75%"
+      },
+      {
+        "ingredient": "麵包粉",
+        "percentage": "18%"
+      },
+      {
+        "ingredient": "蛋",
+        "percentage": "7%"
+      }
+    ]
+  },
+  {
+    "id": "266",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "烤豬腳",
+    "english_name": "Schweinshaxe",
+    "ingredients": [
+      {
+        "ingredient": "巨大的肉塊",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "德國酸菜",
+        "percentage": "32%"
+      },
+      {
+        "ingredient": "薯條",
+        "percentage": "23%"
+      }
+    ]
+  },
+  {
+    "id": "267",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "豆腐牛排",
+    "english_name": "Tofu Steak",
+    "ingredients": [
+      {
+        "ingredient": "魔法豆做成的豆腐",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "橄欖油",
+        "percentage": "10%"
+      },
+      {
+        "ingredient": "辣醬油",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "268",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "鹽烤鯡魚",
+    "english_name": "Grilled Herring",
+    "ingredients": [
+      {
+        "ingredient": "鯡魚",
+        "percentage": "88%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "7%"
+      },
+      {
+        "ingredient": "檸檬原汁",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "269",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "玉子燒",
+    "english_name": "Rolled Omelet",
+    "ingredients": [
+      {
+        "ingredient": "蛋",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "奶油",
+        "percentage": "12%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "8%"
+      }
+    ]
+  },
+  {
+    "id": "270",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "松露玉子燒",
+    "english_name": "Truffle Omelet",
+    "ingredients": [
+      {
+        "ingredient": "蛋",
+        "percentage": "67%"
+      },
+      {
+        "ingredient": "野菜拼盤",
+        "percentage": "18%"
+      },
+      {
+        "ingredient": "松露菇",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "271",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "夾心餅乾",
+    "english_name": "Smore",
+    "ingredients": [
+      {
+        "ingredient": "巧克力餅乾",
+        "percentage": "52%"
+      },
+      {
+        "ingredient": "棉花糖",
+        "percentage": "48%"
+      }
+    ]
+  },
+  {
+    "id": "272",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "巴西烤肉",
+    "english_name": "Churrasco",
+    "ingredients": [
+      {
+        "ingredient": "手工沙朗火腿",
+        "percentage": "44%"
+      },
+      {
+        "ingredient": "熱狗",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "雞肉",
+        "percentage": "26%"
+      }
+    ]
+  },
+  {
+    "id": "273",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "辣椒醬烤豬肉",
+    "english_name": "Pork Bulgogi",
+    "ingredients": [
+      {
+        "ingredient": "肉塊",
+        "percentage": "81%"
+      },
+      {
+        "ingredient": "辣椒醬",
+        "percentage": "11%"
+      },
+      {
+        "ingredient": "洋蔥",
+        "percentage": "8%"
+      }
+    ]
+  },
+  {
+    "id": "274",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "烤鳳梨",
+    "english_name": "Grilled Pineapple",
+    "ingredients": [
+      {
+        "ingredient": "鳳梨",
+        "percentage": "94%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "6%"
+      }
+    ]
+  },
+  {
+    "id": "275",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "鳳梨培根串",
+    "english_name": "Bacon Skewer with Pineapple",
+    "ingredients": [
+      {
+        "ingredient": "鳳梨",
+        "percentage": "42%"
+      },
+      {
+        "ingredient": "培根",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "蝦",
+        "percentage": "18%"
+      }
+    ]
+  },
+  {
+    "id": "276",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "梅子茶",
+    "english_name": "Green Plum Tea",
+    "ingredients": [
+      {
+        "ingredient": "水瓶",
+        "percentage": "86%"
+      },
+      {
+        "ingredient": "梅汁",
+        "percentage": "14%"
+      }
+    ]
+  },
+  {
+    "id": "277",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "愛爾蘭燉肉",
+    "english_name": "Irish Stew",
+    "ingredients": [
+      {
+        "ingredient": "肉塊",
+        "percentage": "78%"
+      },
+      {
+        "ingredient": "馬鈴薯王",
+        "percentage": "12%"
+      },
+      {
+        "ingredient": "紅蘿蔔",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "278",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "炒年糕",
+    "english_name": "Tteokbokki",
+    "ingredients": [
+      {
+        "ingredient": "白色米糕",
+        "percentage": "53%"
+      },
+      {
+        "ingredient": "湯頭",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "辣椒醬",
+        "percentage": "17%"
+      }
+    ]
+  },
+  {
+    "id": "279",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "辣椒醬鍋",
+    "english_name": "Gochujang Stew",
+    "ingredients": [
+      {
+        "ingredient": "湯頭",
+        "percentage": "46%"
+      },
+      {
+        "ingredient": "馬鈴薯",
+        "percentage": "27%"
+      },
+      {
+        "ingredient": "辣椒醬",
+        "percentage": "27%"
+      }
+    ]
+  },
+  {
+    "id": "280",
+    "category": "B",
+    "type": "製作麵條",
+    "name": "生魚片湯麵",
+    "english_name": "Assorted Raw Fish Noodle",
+    "ingredients": [
+      {
+        "ingredient": "綜合刺身",
+        "percentage": "48%"
+      },
+      {
+        "ingredient": "素麵",
+        "percentage": "31%"
+      },
+      {
+        "ingredient": "湯頭",
+        "percentage": "21%"
+      }
+    ]
+  },
+  {
+    "id": "281",
+    "category": "B",
+    "type": "製作麵條",
+    "name": "切片白帶魚湯麵",
+    "english_name": "Raw Cutlassfish Noodle",
+    "ingredients": [
+      {
+        "ingredient": "素麵",
+        "percentage": "55%"
+      },
+      {
+        "ingredient": "白帶魚生魚片",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "高麗菜",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "282",
+    "category": "3",
+    "type": "發酵",
+    "name": "醃漬雞蛋",
+    "english_name": "Pickled Egg",
+    "ingredients": [
+      {
+        "ingredient": "煮熟的雞蛋",
+        "percentage": "71%"
+      },
+      {
+        "ingredient": "食醋",
+        "percentage": "16%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "13%"
+      }
+    ]
+  },
+  {
+    "id": "283",
+    "category": "3",
+    "type": "發酵",
+    "name": "醃漬黃瓜",
+    "english_name": "Pickled Cucumber",
+    "ingredients": [
+      {
+        "ingredient": "黃瓜",
+        "percentage": "71%"
+      },
+      {
+        "ingredient": "食醋",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "14%"
+      }
+    ]
+  },
+  {
+    "id": "284",
+    "category": "3",
+    "type": "發酵",
+    "name": "原味優格",
+    "english_name": "Plain Yogurt",
+    "ingredients": [
+      {
+        "ingredient": "牛奶",
+        "percentage": "100%"
+      }
+    ]
+  },
+  {
+    "id": "285",
+    "category": "3",
+    "type": "發酵",
+    "name": "蜂蜜優格",
+    "english_name": "Honey Yogurt",
+    "ingredients": [
+      {
+        "ingredient": "牛奶",
+        "percentage": "88%"
+      },
+      {
+        "ingredient": "新鮮蜂蜜",
+        "percentage": "12%"
+      }
+    ]
+  },
+  {
+    "id": "286",
+    "category": "3",
+    "type": "發酵",
+    "name": "草莓優格",
+    "english_name": "Strawberry Yogurt",
+    "ingredients": [
+      {
+        "ingredient": "牛奶",
+        "percentage": "78%"
+      },
+      {
+        "ingredient": "草莓果醬",
+        "percentage": "22%"
+      }
+    ]
+  },
+  {
+    "id": "287",
+    "category": "3",
+    "type": "發酵",
+    "name": "藍莓優格",
+    "english_name": "BlueBerry Yogurt",
+    "ingredients": [
+      {
+        "ingredient": "牛奶",
+        "percentage": "77%"
+      },
+      {
+        "ingredient": "藍梅果醬",
+        "percentage": "23%"
+      }
+    ]
+  },
+  {
+    "id": "288",
+    "category": "3",
+    "type": "發酵",
+    "name": "德國酸菜",
+    "english_name": "Sauerkraut",
+    "ingredients": [
+      {
+        "ingredient": "高麗菜",
+        "percentage": "77%"
+      },
+      {
+        "ingredient": "食醋",
+        "percentage": "14%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "9%"
+      }
+    ]
+  },
+  {
+    "id": "289",
+    "category": "3",
+    "type": "發酵",
+    "name": "梅干",
+    "english_name": "Umeboshi",
+    "ingredients": [
+      {
+        "ingredient": "梅子",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "290",
+    "category": "3",
+    "type": "發酵",
+    "name": "發酵鯊魚肉",
+    "english_name": "Hakarl",
+    "ingredients": [
+      {
+        "ingredient": "淡水巨大肉食魚類",
+        "percentage": "95%"
+      },
+      {
+        "ingredient": "胡椒",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "291",
+    "category": "3",
+    "type": "發酵",
+    "name": "納豆",
+    "english_name": "Natto",
+    "ingredients": [
+      {
+        "ingredient": "煮過的豆",
+        "percentage": "91%"
+      },
+      {
+        "ingredient": "醬油",
+        "percentage": "9%"
+      }
+    ]
+  },
+  {
+    "id": "292",
+    "category": "9",
+    "type": "炒(火)",
+    "name": "鳳梨炒飯",
+    "english_name": "Fried Rice with Pineapple",
+    "ingredients": [
+      {
+        "ingredient": "白飯",
+        "percentage": "65%"
+      },
+      {
+        "ingredient": "鳳梨",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "辣醬油",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "293",
+    "category": "2",
+    "type": "舒肥(火)",
+    "name": "手撕豬肉三明治",
+    "english_name": "Pulled Pork Sandwiches",
+    "ingredients": [
+      {
+        "ingredient": "巨大的肉塊",
+        "percentage": "38%"
+      },
+      {
+        "ingredient": "野菜拼盤",
+        "percentage": "33%"
+      },
+      {
+        "ingredient": "吐司 (Tin Bread)",
+        "percentage": "29%"
+      }
+    ]
+  },
+  {
+    "id": "294",
+    "category": "2",
+    "type": "舒肥(火)",
+    "name": "水嫩的鮭魚排",
+    "english_name": "Moisty Salmon Steak",
+    "ingredients": [
+      {
+        "ingredient": "拉諾產鮭魚",
+        "percentage": "90%"
+      },
+      {
+        "ingredient": "橄欖油",
+        "percentage": "5%"
+      },
+      {
+        "ingredient": "香草",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "295",
+    "category": "2",
+    "type": "舒肥(火)",
+    "name": "雞胸肉沙拉",
+    "english_name": "Chicken Breast Salad",
+    "ingredients": [
+      {
+        "ingredient": "雞肉",
+        "percentage": "65%"
+      },
+      {
+        "ingredient": "芹菜沙拉",
+        "percentage": "29%"
+      },
+      {
+        "ingredient": "酒醋",
+        "percentage": "6%"
+      }
+    ]
+  },
+  {
+    "id": "296",
+    "category": "2",
+    "type": "舒肥(火)",
+    "name": "熱呼呼的溫泉蛋",
+    "english_name": "Hot Spring Boiled Egg",
+    "ingredients": [
+      {
+        "ingredient": "蛋",
+        "percentage": "86%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "10%"
+      },
+      {
+        "ingredient": "醬油",
+        "percentage": "4%"
+      }
+    ]
+  },
+  {
+    "id": "297",
+    "category": "2",
+    "type": "舒肥(火)",
+    "name": "腰脊肉牛排",
+    "english_name": "Striploin Steak",
+    "ingredients": [
+      {
+        "ingredient": "牛肉",
+        "percentage": "76%"
+      },
+      {
+        "ingredient": "炒青菜",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "辣醬油",
+        "percentage": "9%"
+      }
+    ]
+  },
+  {
+    "id": "298",
+    "category": "2",
+    "type": "舒肥(火)",
+    "name": "手工沙朗火腿",
+    "english_name": "Handmade Rose Ham",
+    "ingredients": [
+      {
+        "ingredient": "巨大的肉塊",
+        "percentage": "85%"
+      },
+      {
+        "ingredient": "奶油",
+        "percentage": "9%"
+      },
+      {
+        "ingredient": "胡椒",
+        "percentage": "6%"
+      }
+    ]
+  },
+  {
+    "id": "299",
+    "category": "2",
+    "type": "舒肥(火)",
+    "name": "烤鯖魚",
+    "english_name": "Grilled Chub Mackerel with Curry",
+    "ingredients": [
+      {
+        "ingredient": "鯖魚",
+        "percentage": "81%"
+      },
+      {
+        "ingredient": "咖哩粉",
+        "percentage": "12%"
+      },
+      {
+        "ingredient": "麵粉",
+        "percentage": "7%"
+      }
+    ]
+  },
+  {
+    "id": "300",
+    "category": "2",
+    "type": "舒肥(火)",
+    "name": "雞胸肉油雞",
+    "english_name": "Fried Chicken with Hot and Sour Soy Sauce",
+    "ingredients": [
+      {
+        "ingredient": "雞肉",
+        "percentage": "77%"
+      },
+      {
+        "ingredient": "高麗菜",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "辣的辣椒",
+        "percentage": "8%"
+      }
+    ]
+  },
+  {
+    "id": "301",
+    "category": "2",
+    "type": "舒肥(火)",
+    "name": "舒肥式牛肋排",
+    "english_name": "Steamed Beef Ribs",
+    "ingredients": [
+      {
+        "ingredient": "牛肉",
+        "percentage": "83%"
+      },
+      {
+        "ingredient": "肉醬料",
+        "percentage": "9%"
+      },
+      {
+        "ingredient": "辣的辣椒",
+        "percentage": "8%"
+      }
+    ]
+  },
+  {
+    "id": "302",
+    "category": "2",
+    "type": "舒肥(火)",
+    "name": "燉青花魚",
+    "english_name": "Boiled Chub Mackerel in Soy Sauce",
+    "ingredients": [
+      {
+        "ingredient": "鯖魚",
+        "percentage": "81%"
+      },
+      {
+        "ingredient": "醬油",
+        "percentage": "14%"
+      },
+      {
+        "ingredient": "檸檬原汁",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "303",
+    "category": "2",
+    "type": "舒肥(火)",
+    "name": "韓式生菜包嫩肉",
+    "english_name": "Bossam",
+    "ingredients": [
+      {
+        "ingredient": "巨大的肉塊",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "韭菜",
+        "percentage": "12%"
+      },
+      {
+        "ingredient": "高麗菜",
+        "percentage": "8%"
+      }
+    ]
+  },
+  {
+    "id": "304",
+    "category": "2",
+    "type": "舒肥(火)",
+    "name": "牛奶雞蛋布丁",
+    "english_name": "Custard Pudding",
+    "ingredients": [
+      {
+        "ingredient": "蛋",
+        "percentage": "68%"
+      },
+      {
+        "ingredient": "牛奶",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "12%"
+      }
+    ]
+  },
+  {
+    "id": "305",
+    "category": "2",
+    "type": "舒肥(火)",
+    "name": "醬燒香菇",
+    "english_name": "Mushroom Boiled Down in Soy Sauce",
+    "ingredients": [
+      {
+        "ingredient": "栗茸",
+        "percentage": "55%"
+      },
+      {
+        "ingredient": "肉塊",
+        "percentage": "32%"
+      },
+      {
+        "ingredient": "醬油",
+        "percentage": "13%"
+      }
+    ]
+  },
+  {
+    "id": "306",
+    "category": "2",
+    "type": "舒肥(火)",
+    "name": "親子丼",
+    "english_name": "Oyakodon",
+    "ingredients": [
+      {
+        "ingredient": "雞肉",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "白飯",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "蛋",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "307",
+    "category": "2",
+    "type": "舒肥(火)",
+    "name": "鮭魚親子丼",
+    "english_name": "Salmon Oyakodon",
+    "ingredients": [
+      {
+        "ingredient": "拉諾產鮭魚",
+        "percentage": "49%"
+      },
+      {
+        "ingredient": "白飯",
+        "percentage": "47%"
+      },
+      {
+        "ingredient": "檸檬",
+        "percentage": "4%"
+      }
+    ]
+  },
+  {
+    "id": "308",
+    "category": "2",
+    "type": "舒肥(火)",
+    "name": "舒肥式橄欖油義大利麵",
+    "english_name": "Sousvide Oil Pasta",
+    "ingredients": [
+      {
+        "ingredient": "長義大利麵食",
+        "percentage": "79%"
+      },
+      {
+        "ingredient": "牛角蛤",
+        "percentage": "12%"
+      },
+      {
+        "ingredient": "橄欖油",
+        "percentage": "9%"
+      }
+    ]
+  },
+  {
+    "id": "309",
+    "category": "7",
+    "type": "製作果醬(火)",
+    "name": "梅汁",
+    "english_name": "Green Plum Syrup",
+    "ingredients": [
+      {
+        "ingredient": "梅子",
+        "percentage": "59%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "41%"
+      }
+    ]
+  },
+  {
+    "id": "310",
+    "category": "1",
+    "type": "刀工",
+    "name": "鮮蝦刺身",
+    "english_name": "Slices of Raw Shrimp",
+    "ingredients": [
+      {
+        "ingredient": "蝦",
+        "percentage": "89%"
+      },
+      {
+        "ingredient": "醋醬",
+        "percentage": "11%"
+      }
+    ]
+  },
+  {
+    "id": "311",
+    "category": "1",
+    "type": "刀工",
+    "name": "鰻魚刺身",
+    "english_name": "Slices of Raw Eel",
+    "ingredients": [
+      {
+        "ingredient": "貝爾法斯特鰻魚",
+        "percentage": "88%"
+      },
+      {
+        "ingredient": "醋醬",
+        "percentage": "12%"
+      }
+    ]
+  },
+  {
+    "id": "312",
+    "category": "1",
+    "type": "刀工",
+    "name": "金槍魚生魚片",
+    "english_name": "Slices of Raw Tuna",
+    "ingredients": [
+      {
+        "ingredient": "黃鰭金槍魚",
+        "percentage": "91%"
+      },
+      {
+        "ingredient": "醋醬",
+        "percentage": "9%"
+      }
+    ]
+  },
+  {
+    "id": "313",
+    "category": "1",
+    "type": "刀工",
+    "name": "鮭魚生魚片",
+    "english_name": "Slices of Raw Salmon",
+    "ingredients": [
+      {
+        "ingredient": "拉諾產鮭魚",
+        "percentage": "90%"
+      },
+      {
+        "ingredient": "醋醬",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "314",
+    "category": "1",
+    "type": "刀工",
+    "name": "白帶魚生魚片",
+    "english_name": "Slices of Raw Cutlassfish",
+    "ingredients": [
+      {
+        "ingredient": "白帶魚",
+        "percentage": "92%"
+      },
+      {
+        "ingredient": "醋醬",
+        "percentage": "8%"
+      }
+    ]
+  },
+  {
+    "id": "315",
+    "category": "1",
+    "type": "刀工",
+    "name": "生肉片",
+    "english_name": "Slices of Raw Beef",
+    "ingredients": [
+      {
+        "ingredient": "巨大的肉塊",
+        "percentage": "86%"
+      },
+      {
+        "ingredient": "蛋",
+        "percentage": "14%"
+      }
+    ]
+  },
+  {
+    "id": "316",
+    "category": "1",
+    "type": "刀工",
+    "name": "河豚生魚片",
+    "english_name": "Slices of Raw Puffer",
+    "ingredients": [
+      {
+        "ingredient": "河豚",
+        "percentage": "82%"
+      },
+      {
+        "ingredient": "解毒藥水",
+        "percentage": "10%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "8%"
+      }
+    ]
+  },
+  {
+    "id": "317",
+    "category": "1",
+    "type": "刀工",
+    "name": "鱒魚生魚片",
+    "english_name": "Slices of Raw Trout",
+    "ingredients": [
+      {
+        "ingredient": "七彩松魚",
+        "percentage": "87%"
+      },
+      {
+        "ingredient": "醋醬",
+        "percentage": "13%"
+      }
+    ]
+  },
+  {
+    "id": "318",
+    "category": "1",
+    "type": "刀工",
+    "name": "生龍蝦",
+    "english_name": "Slices of Raw Lobster",
+    "ingredients": [
+      {
+        "ingredient": "海龍蝦",
+        "percentage": "88%"
+      },
+      {
+        "ingredient": "醬油",
+        "percentage": "7%"
+      },
+      {
+        "ingredient": "檸檬原汁",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "319",
+    "category": "1",
+    "type": "刀工",
+    "name": "清燙章魚",
+    "english_name": "Slices of Boiled Octopus",
+    "ingredients": [
+      {
+        "ingredient": "煮過的章魚",
+        "percentage": "90%"
+      },
+      {
+        "ingredient": "醋醬",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "320",
+    "category": "練習",
+    "type": "混合",
+    "name": "綜合刺身",
+    "english_name": "Assorted Slices of Raw Fish",
+    "ingredients": [
+      {
+        "ingredient": "鮭魚生魚片",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "鰻魚刺身",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "金槍魚生魚片",
+        "percentage": "30%"
+      }
+    ]
+  },
+  {
+    "id": "321",
+    "category": "練習",
+    "type": "混合",
+    "name": "生魚片蓋飯",
+    "english_name": "Assorted Sushi and Rice",
+    "ingredients": [
+      {
+        "ingredient": "綜合刺身",
+        "percentage": "46%"
+      },
+      {
+        "ingredient": "野菜拼盤",
+        "percentage": "36%"
+      },
+      {
+        "ingredient": "白飯",
+        "percentage": "18%"
+      }
+    ]
+  },
+  {
+    "id": "322",
+    "category": "1",
+    "type": "刀工",
+    "name": "烤羊肉串",
+    "english_name": "Sis Kebab",
+    "ingredients": [
+      {
+        "ingredient": "肉塊",
+        "percentage": "77%"
+      },
+      {
+        "ingredient": "紅甜椒",
+        "percentage": "12%"
+      },
+      {
+        "ingredient": "蕃茄",
+        "percentage": "11%"
+      }
+    ]
+  },
+  {
+    "id": "323",
+    "category": "1",
+    "type": "刀工",
+    "name": "土耳其烤肉串",
+    "english_name": "Iskender Kebab",
+    "ingredients": [
+      {
+        "ingredient": "巨大的肉塊",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "麵包",
+        "percentage": "19%"
+      },
+      {
+        "ingredient": "原味優格",
+        "percentage": "11%"
+      }
+    ]
+  },
+  {
+    "id": "324",
+    "category": "1",
+    "type": "刀工",
+    "name": "雞肉烤餅",
+    "english_name": "Picnic Chicken Kebab",
+    "ingredients": [
+      {
+        "ingredient": "雞肉",
+        "percentage": "55%"
+      },
+      {
+        "ingredient": "紅甜椒",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "玉米餅",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "325",
+    "category": "1",
+    "type": "刀工",
+    "name": "墨西哥玉米煎餅",
+    "english_name": "Burrito",
+    "ingredients": [
+      {
+        "ingredient": "手工沙朗火腿",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "玉米餅",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "野菜拼盤",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "326",
+    "category": "4",
+    "type": "製作披薩",
+    "name": "古岡左拉起司",
+    "english_name": "Pizza Gorgonzola",
+    "ingredients": [
+      {
+        "ingredient": "清淡披薩麵團",
+        "percentage": "41%"
+      },
+      {
+        "ingredient": "巨大的乳酪塊",
+        "percentage": "41%"
+      },
+      {
+        "ingredient": "蒜頭",
+        "percentage": "18%"
+      }
+    ]
+  },
+  {
+    "id": "327",
+    "category": "4",
+    "type": "製作披薩",
+    "name": "瑪格麗特",
+    "english_name": "Pizza Margherita",
+    "ingredients": [
+      {
+        "ingredient": "番茄醬披薩麵團",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "起司塊",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "羅勒",
+        "percentage": "30%"
+      }
+    ]
+  },
+  {
+    "id": "328",
+    "category": "4",
+    "type": "製作披薩",
+    "name": "披薩餃",
+    "english_name": "Pizza Calzone",
+    "ingredients": [
+      {
+        "ingredient": "番茄醬披薩麵團",
+        "percentage": "41%"
+      },
+      {
+        "ingredient": "培根",
+        "percentage": "32%"
+      },
+      {
+        "ingredient": "起司塊",
+        "percentage": "27%"
+      }
+    ]
+  },
+  {
+    "id": "329",
+    "category": "4",
+    "type": "製作披薩",
+    "name": "蕃薯披薩",
+    "english_name": "Sweet Potato Pizza",
+    "ingredients": [
+      {
+        "ingredient": "清淡披薩麵團",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "地瓜",
+        "percentage": "36%"
+      },
+      {
+        "ingredient": "起司塊",
+        "percentage": "24%"
+      }
+    ]
+  },
+  {
+    "id": "330",
+    "category": "4",
+    "type": "製作披薩",
+    "name": "義大利辣香腸披薩",
+    "english_name": "Pepperoni Pizza",
+    "ingredients": [
+      {
+        "ingredient": "番茄醬披薩麵團",
+        "percentage": "42%"
+      },
+      {
+        "ingredient": "薩拉米香腸",
+        "percentage": "38%"
+      },
+      {
+        "ingredient": "起司塊",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "331",
+    "category": "4",
+    "type": "製作披薩",
+    "name": "香氣蘑菇披薩",
+    "english_name": "Mushroom Pizza",
+    "ingredients": [
+      {
+        "ingredient": "番茄醬披薩麵團",
+        "percentage": "44%"
+      },
+      {
+        "ingredient": "栗茸",
+        "percentage": "39%"
+      },
+      {
+        "ingredient": "起司塊",
+        "percentage": "17%"
+      }
+    ]
+  },
+  {
+    "id": "332",
+    "category": "4",
+    "type": "製作披薩",
+    "name": "巧克力披薩",
+    "english_name": "Chocolate Pizza",
+    "ingredients": [
+      {
+        "ingredient": "清淡披薩麵團",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "材料巧克力",
+        "percentage": "41%"
+      },
+      {
+        "ingredient": "棉花糖",
+        "percentage": "19%"
+      }
+    ]
+  },
+  {
+    "id": "333",
+    "category": "4",
+    "type": "製作披薩",
+    "name": "鮮蝦披薩",
+    "english_name": "Shrimp Pizza",
+    "ingredients": [
+      {
+        "ingredient": "番茄醬披薩麵團",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "蝦",
+        "percentage": "38%"
+      },
+      {
+        "ingredient": "起司塊",
+        "percentage": "22%"
+      }
+    ]
+  },
+  {
+    "id": "334",
+    "category": "4",
+    "type": "製作披薩",
+    "name": "牛排披薩",
+    "english_name": "Steak Pizza",
+    "ingredients": [
+      {
+        "ingredient": "手工沙朗火腿",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "番茄醬披薩麵團",
+        "percentage": "37%"
+      },
+      {
+        "ingredient": "起司塊",
+        "percentage": "18%"
+      }
+    ]
+  },
+  {
+    "id": "335",
+    "category": "4",
+    "type": "製作披薩",
+    "name": "佛卡夏",
+    "english_name": "Focaccia",
+    "ingredients": [
+      {
+        "ingredient": "麵包粉麵糰",
+        "percentage": "66%"
+      },
+      {
+        "ingredient": "香草",
+        "percentage": "19%"
+      },
+      {
+        "ingredient": "橄欖油",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "336",
+    "category": "4",
+    "type": "製作披薩",
+    "name": "辣雞披薩",
+    "english_name": "Hot Chicken Pizza",
+    "ingredients": [
+      {
+        "ingredient": "番茄醬披薩麵團",
+        "percentage": "42%"
+      },
+      {
+        "ingredient": "雞翅",
+        "percentage": "37%"
+      },
+      {
+        "ingredient": "起司塊",
+        "percentage": "21%"
+      }
+    ]
+  },
+  {
+    "id": "337",
+    "category": "4",
+    "type": "製作披薩",
+    "name": "塔拉深盤",
+    "english_name": "Tara Deep Dish Pizza",
+    "ingredients": [
+      {
+        "ingredient": "巨大的乳酪塊",
+        "percentage": "42%"
+      },
+      {
+        "ingredient": "番茄醬披薩麵團",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "紅甜椒",
+        "percentage": "18%"
+      }
+    ]
+  },
+  {
+    "id": "338",
+    "category": "4",
+    "type": "製作披薩",
+    "name": "蔬菜披薩",
+    "english_name": "Vegetable Pizza",
+    "ingredients": [
+      {
+        "ingredient": "野菜拼盤",
+        "percentage": "44%"
+      },
+      {
+        "ingredient": "番茄醬披薩麵團",
+        "percentage": "39%"
+      },
+      {
+        "ingredient": "起司塊",
+        "percentage": "17%"
+      }
+    ]
+  },
+  {
+    "id": "339",
+    "category": "4",
+    "type": "製作披薩",
+    "name": "庫爾克勒披薩",
+    "english_name": "Courcle Pizza",
+    "ingredients": [
+      {
+        "ingredient": "番茄醬披薩麵團",
+        "percentage": "38%"
+      },
+      {
+        "ingredient": "手工沙朗火腿",
+        "percentage": "37%"
+      },
+      {
+        "ingredient": "鳳梨",
+        "percentage": "25%"
+      }
+    ]
+  },
+  {
+    "id": "340",
+    "category": "練習",
+    "type": "混合",
+    "name": "魯賓三明治",
+    "english_name": "Reuben Sandwich",
+    "ingredients": [
+      {
+        "ingredient": "吐司 (Tin Bread)",
+        "percentage": "55%"
+      },
+      {
+        "ingredient": "薩拉米香腸",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "德國酸菜",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "341",
+    "category": "練習",
+    "type": "混合",
+    "name": "蝦壽司",
+    "english_name": "Shrimp Sushi",
+    "ingredients": [
+      {
+        "ingredient": "鮮蝦刺身",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "白飯",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "食醋",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "342",
+    "category": "練習",
+    "type": "混合",
+    "name": "鰻魚壽司",
+    "english_name": "Eel Sushi",
+    "ingredients": [
+      {
+        "ingredient": "鰻魚刺身",
+        "percentage": "59%"
+      },
+      {
+        "ingredient": "白飯",
+        "percentage": "31%"
+      },
+      {
+        "ingredient": "食醋",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "343",
+    "category": "練習",
+    "type": "混合",
+    "name": "雞蛋壽司",
+    "english_name": "Egg Sushi",
+    "ingredients": [
+      {
+        "ingredient": "玉子燒",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "白飯",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "食醋",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "344",
+    "category": "練習",
+    "type": "混合",
+    "name": "鮪魚肚壽司",
+    "english_name": "Tuna Sushi",
+    "ingredients": [
+      {
+        "ingredient": "金槍魚生魚片",
+        "percentage": "51%"
+      },
+      {
+        "ingredient": "白飯",
+        "percentage": "39%"
+      },
+      {
+        "ingredient": "食醋",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "345",
+    "category": "練習",
+    "type": "混合",
+    "name": "鮭魚壽司",
+    "english_name": "Salmon Sushi",
+    "ingredients": [
+      {
+        "ingredient": "鮭魚生魚片",
+        "percentage": "52%"
+      },
+      {
+        "ingredient": "白飯",
+        "percentage": "38%"
+      },
+      {
+        "ingredient": "食醋",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "346",
+    "category": "練習",
+    "type": "混合",
+    "name": "印度拉昔",
+    "english_name": "Lassi",
+    "ingredients": [
+      {
+        "ingredient": "原味優格",
+        "percentage": "76%"
+      },
+      {
+        "ingredient": "水果拼盤",
+        "percentage": "14%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "347",
+    "category": "練習",
+    "type": "混合",
+    "name": "涼拌捲心菜",
+    "english_name": "Coleslaw",
+    "ingredients": [
+      {
+        "ingredient": "高麗菜",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "食醋",
+        "percentage": "18%"
+      },
+      {
+        "ingredient": "美乃茲醬",
+        "percentage": "12%"
+      }
+    ]
+  },
+  {
+    "id": "348",
+    "category": "練習",
+    "type": "混合",
+    "name": "減肥鮭魚沙拉",
+    "english_name": "Diet Salmon Salad",
+    "ingredients": [
+      {
+        "ingredient": "鮭魚生魚片",
+        "percentage": "71%"
+      },
+      {
+        "ingredient": "洋蔥",
+        "percentage": "21%"
+      },
+      {
+        "ingredient": "酒醋",
+        "percentage": "8%"
+      }
+    ]
+  },
+  {
+    "id": "349",
+    "category": "練習",
+    "type": "混合",
+    "name": "棉花糖",
+    "english_name": "Marshmallow",
+    "ingredients": [
+      {
+        "ingredient": "砂糖",
+        "percentage": "56%"
+      },
+      {
+        "ingredient": "膠原蛋白",
+        "percentage": "33%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "11%"
+      }
+    ]
+  },
+  {
+    "id": "350",
+    "category": "練習",
+    "type": "混合",
+    "name": "千層蛋糕",
+    "english_name": "Crepe Cake",
+    "ingredients": [
+      {
+        "ingredient": "可麗餅",
+        "percentage": "74%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "18%"
+      },
+      {
+        "ingredient": "新鮮蜂蜜",
+        "percentage": "8%"
+      }
+    ]
+  },
+  {
+    "id": "351",
+    "category": "練習",
+    "type": "混合",
+    "name": "草莓鮮奶油可麗餅",
+    "english_name": "Crepe with Strawberry and Whipped Cream",
+    "ingredients": [
+      {
+        "ingredient": "可麗餅",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "草莓",
+        "percentage": "31%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "24%"
+      }
+    ]
+  },
+  {
+    "id": "352",
+    "category": "練習",
+    "type": "混合",
+    "name": "藍莓鮮奶油可麗餅",
+    "english_name": "Crepe with Blueberry and Whipped Cream",
+    "ingredients": [
+      {
+        "ingredient": "可麗餅",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "藍梅",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "25%"
+      }
+    ]
+  },
+  {
+    "id": "353",
+    "category": "練習",
+    "type": "混合",
+    "name": "巧克力可麗餅蛋糕",
+    "english_name": "Crepe with Chocolate and Whipped Cream",
+    "ingredients": [
+      {
+        "ingredient": "可麗餅",
+        "percentage": "47%"
+      },
+      {
+        "ingredient": "材料巧克力",
+        "percentage": "27%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "26%"
+      }
+    ]
+  },
+  {
+    "id": "354",
+    "category": "練習",
+    "type": "混合",
+    "name": "夢幻點心",
+    "english_name": "Happy Dessert Time Collection",
+    "ingredients": [
+      {
+        "ingredient": "草莓鮮奶油可麗餅",
+        "percentage": "38%"
+      },
+      {
+        "ingredient": "夾心餅乾",
+        "percentage": "33%"
+      },
+      {
+        "ingredient": "牛奶雞蛋布丁",
+        "percentage": "29%"
+      }
+    ]
+  },
+  {
+    "id": "355",
+    "category": "練習",
+    "type": "混合",
+    "name": "海怪涼拌",
+    "english_name": "Kraken TangTang",
+    "ingredients": [
+      {
+        "ingredient": "海怪腳肉",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "蒜頭",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "356",
+    "category": "9",
+    "type": "炒(火)",
+    "name": "海怪炒盤",
+    "english_name": "Kraken Sucker Food",
+    "ingredients": [
+      {
+        "ingredient": "海怪章魚",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "Tabasco 炸海怪",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "海怪墨汁義大利麵",
+        "percentage": "30%"
+      }
+    ]
+  },
+  {
+    "id": "357",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "烤海怪",
+    "english_name": "Kraken Grilled Stick",
+    "ingredients": [
+      {
+        "ingredient": "海怪腳肉",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "辣椒粉",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "358",
+    "category": "5",
+    "type": "蒸(火)",
+    "name": "煮熟的海怪",
+    "english_name": "Kraken Steam",
+    "ingredients": [
+      {
+        "ingredient": "海怪腳肉",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "檸檬原汁",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "359",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "海怪辣湯",
+    "english_name": "Kraken Spicy Soup",
+    "ingredients": [
+      {
+        "ingredient": "海怪涼拌",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "煮熟的海怪",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "烤海怪",
+        "percentage": "30%"
+      }
+    ]
+  },
+  {
+    "id": "360",
+    "category": "E",
+    "type": "熬(火)",
+    "name": "海怪章魚",
+    "english_name": "Kraken Pulpo",
+    "ingredients": [
+      {
+        "ingredient": "海怪腳肉",
+        "percentage": "80%"
+      },
+      {
+        "ingredient": "胡椒",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "361",
+    "category": "A",
+    "type": "炸(火)",
+    "name": "Tabasco 炸海怪",
+    "english_name": "Kraken Spicy Fried",
+    "ingredients": [
+      {
+        "ingredient": "海怪腳肉",
+        "percentage": "75%"
+      },
+      {
+        "ingredient": "麵衣",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "檸檬",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "362",
+    "category": "8",
+    "type": "製作義大利麵",
+    "name": "海怪墨汁義大利麵",
+    "english_name": "Kraken Ink Pasta",
+    "ingredients": [
+      {
+        "ingredient": "海怪墨汁",
+        "percentage": "75%"
+      },
+      {
+        "ingredient": "蒜頭",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "橄欖油",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "363",
+    "category": "練習",
+    "type": "混合",
+    "name": "海怪全餐",
+    "english_name": "Kraken Eight Meals",
+    "ingredients": [
+      {
+        "ingredient": "海怪辣湯",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "海怪炒盤",
+        "percentage": "50%"
+      }
+    ]
+  },
+  {
+    "id": "364",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "斯庫雅汀山 吸盤串",
+    "english_name": "Sucker Stick from Scuabtuinne",
+    "ingredients": [
+      {
+        "ingredient": "海怪吸盤",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "胡椒",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "365",
+    "category": "2",
+    "type": "舒肥(火)",
+    "name": "斯庫雅汀山 吸盤減肥舒肥",
+    "english_name": "Sucker Sousvide from Scuabtuinne",
+    "ingredients": [
+      {
+        "ingredient": "海怪吸盤",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "檸檬原汁",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "胡椒",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "366",
+    "category": "B",
+    "type": "製作麵條",
+    "name": "醬油拉麵",
+    "english_name": "Shoyu Ramen",
+    "ingredients": [
+      {
+        "ingredient": "麵條",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "醬油",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "湯頭",
+        "percentage": "50%"
+      }
+    ]
+  },
+  {
+    "id": "367",
+    "category": "B",
+    "type": "製作麵條",
+    "name": "鹽味拉麵",
+    "english_name": "Shio Ramen",
+    "ingredients": [
+      {
+        "ingredient": "麵條",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "鹽",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "湯頭",
+        "percentage": "50%"
+      }
+    ]
+  },
+  {
+    "id": "368",
+    "category": "練習",
+    "type": "混合",
+    "name": "起司漢堡",
+    "english_name": "Cheese Burger",
+    "ingredients": [
+      {
+        "ingredient": "麵包",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "起司塊",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "高麗菜",
+        "percentage": "25%"
+      }
+    ]
+  },
+  {
+    "id": "369",
+    "category": "練習",
+    "type": "混合",
+    "name": "鮮蝦漢堡",
+    "english_name": "Shrimp Burger",
+    "ingredients": [
+      {
+        "ingredient": "麵包",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "蝦子",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "高麗菜",
+        "percentage": "25%"
+      }
+    ]
+  },
+  {
+    "id": "370",
+    "category": "練習",
+    "type": "混合",
+    "name": "培根漢堡",
+    "english_name": "Bacon Burger",
+    "ingredients": [
+      {
+        "ingredient": "麵包",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "培根",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "高麗菜",
+        "percentage": "25%"
+      }
+    ]
+  },
+  {
+    "id": "371",
+    "category": "練習",
+    "type": "混合",
+    "name": "炸雞漢堡",
+    "english_name": "Bacon Burger",
+    "ingredients": [
+      {
+        "ingredient": "麵包",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "雞肉",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "高麗菜",
+        "percentage": "25%"
+      }
+    ]
+  },
+  {
+    "id": "372",
+    "category": "練習",
+    "type": "混合",
+    "name": "生日蛋糕",
+    "english_name": "Birthday Cake",
+    "ingredients": [
+      {
+        "ingredient": "草莓",
+        "percentage": "5%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "麵包粉麵糰",
+        "percentage": "75%"
+      }
+    ]
+  },
+  {
+    "id": "373",
+    "category": "練習",
+    "type": "混合",
+    "name": "餅乾蛋糕",
+    "english_name": "Cookie Cake",
+    "ingredients": [
+      {
+        "ingredient": "巧克力餅乾",
+        "percentage": "5%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "麵包粉麵糰",
+        "percentage": "75%"
+      }
+    ]
+  },
+  {
+    "id": "374",
+    "category": "練習",
+    "type": "混合",
+    "name": "潘的特製啤酒",
+    "english_name": "Special Beer of Pan",
+    "ingredients": [
+      {
+        "ingredient": "麥粉",
+        "percentage": "5%"
+      },
+      {
+        "ingredient": "水",
+        "percentage": "90%"
+      },
+      {
+        "ingredient": "麥芽",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "375",
+    "category": "練習",
+    "type": "混合",
+    "name": "威士忌蘇打調酒",
+    "english_name": "Highball",
+    "ingredients": [
+      {
+        "ingredient": "檸檬",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "布里赫威士忌",
+        "percentage": "75%"
+      }
+    ]
+  },
+  {
+    "id": "376",
+    "category": "練習",
+    "type": "混合",
+    "name": "蘋果汽水",
+    "english_name": "Apple Cider",
+    "ingredients": [
+      {
+        "ingredient": "蘋果",
+        "percentage": "75%"
+      },
+      {
+        "ingredient": "布里赫威士忌",
+        "percentage": "25%"
+      }
+    ]
+  },
+  {
+    "id": "377",
+    "category": "9",
+    "type": "炒(火)",
+    "name": "蛋包飯",
+    "english_name": "Omelet Rice",
+    "ingredients": [
+      {
+        "ingredient": "拼盤炒飯",
+        "percentage": "90%"
+      },
+      {
+        "ingredient": "蛋",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "378",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "雞蛋粥",
+    "english_name": "Egg Porridge",
+    "ingredients": [
+      {
+        "ingredient": "蛋",
+        "percentage": "10%"
+      },
+      {
+        "ingredient": "水",
+        "percentage": "50%"
+      },
+      {
+        "ingredient": "白飯",
+        "percentage": "40%"
+      }
+    ]
+  },
+  {
+    "id": "379",
+    "category": "練習",
+    "type": "混合",
+    "name": "雞蛋三明治",
+    "english_name": "Egg Sandwich",
+    "ingredients": [
+      {
+        "ingredient": "荷包蛋",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "吐司 (Tin Bread)",
+        "percentage": "85%"
+      }
+    ]
+  },
+  {
+    "id": "380",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "章魚燒",
+    "english_name": "Takoyaki",
+    "ingredients": [
+      {
+        "ingredient": "煮過的章魚",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "麵粉",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "蛋",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "381",
+    "category": "B",
+    "type": "製作麵條",
+    "name": "大醬拉麵",
+    "english_name": "Miso Ramen",
+    "ingredients": [
+      {
+        "ingredient": "麵條",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "大醬",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "湯頭",
+        "percentage": "50%"
+      }
+    ]
+  },
+  {
+    "id": "382",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "大醬鍋",
+    "english_name": "Miso Soup",
+    "ingredients": [
+      {
+        "ingredient": "大醬",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "水",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "野菜拼盤",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "383",
+    "category": "練習",
+    "type": "混合",
+    "name": "紅豆冰",
+    "english_name": "Red Bean Shaved Ice",
+    "ingredients": [
+      {
+        "ingredient": "紅豆",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "冰塊",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "水果拼盤",
+        "percentage": "25%"
+      }
+    ]
+  },
+  {
+    "id": "384",
+    "category": "練習",
+    "type": "混合",
+    "name": "火熱週五半半炸雞啤酒組合",
+    "english_name": "Half && Half Friyay Set",
+    "ingredients": [
+      {
+        "ingredient": "洋釀炸雞",
+        "percentage": "36%"
+      },
+      {
+        "ingredient": "炸雞",
+        "percentage": "37%"
+      },
+      {
+        "ingredient": "威士忌蘇打調酒",
+        "percentage": "27%"
+      }
+    ]
+  },
+  {
+    "id": "385",
+    "category": "練習",
+    "type": "混合",
+    "name": "下午茶組合",
+    "english_name": "Afternoon Tea Set",
+    "ingredients": [
+      {
+        "ingredient": "紅茶蜂蜜司康",
+        "percentage": "33%"
+      },
+      {
+        "ingredient": "馬卡龍",
+        "percentage": "33%"
+      },
+      {
+        "ingredient": "奶凍",
+        "percentage": "34%"
+      }
+    ]
+  },
+  {
+    "id": "386",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "草莓奶油蛋糕",
+    "english_name": "Strawberry Shortcake",
+    "ingredients": [
+      {
+        "ingredient": "麵包粉麵糰",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "草莓",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "30%"
+      }
+    ]
+  },
+  {
+    "id": "387",
+    "category": "練習",
+    "type": "混合",
+    "name": "薄荷巧克力法拉沛咖啡",
+    "english_name": "Mint Choco Frappe",
+    "ingredients": [
+      {
+        "ingredient": "牛奶",
+        "percentage": "65%"
+      },
+      {
+        "ingredient": "薄荷糖漿",
+        "percentage": "15%"
+      },
+      {
+        "ingredient": "材料巧克力",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "388",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "薄荷巧克力餅乾",
+    "english_name": "Mint Choco Cookie",
+    "ingredients": [
+      {
+        "ingredient": "麵粉",
+        "percentage": "65%"
+      },
+      {
+        "ingredient": "薄荷糖漿",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "材料巧克力",
+        "percentage": "15%"
+      }
+    ]
+  },
+  {
+    "id": "389",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "蘋果舒芙蕾",
+    "english_name": "Apple Souffle",
+    "ingredients": [
+      {
+        "ingredient": "麵包粉麵糰",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "蛋",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "蘋果",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "390",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "紅茶蜂蜜司康",
+    "english_name": "Black Tea Honey Scone",
+    "ingredients": [
+      {
+        "ingredient": "麵包粉麵糰",
+        "percentage": "52%"
+      },
+      {
+        "ingredient": "紅茶",
+        "percentage": "34%"
+      },
+      {
+        "ingredient": "新鮮蜂蜜",
+        "percentage": "14%"
+      }
+    ]
+  },
+  {
+    "id": "391",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "可頌鬆餅",
+    "english_name": "Cropple",
+    "ingredients": [
+      {
+        "ingredient": "牛角麵包",
+        "percentage": "67%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "23%"
+      },
+      {
+        "ingredient": "藍梅",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "392",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "泡菜鍋",
+    "english_name": "Kimchi Stew",
+    "ingredients": [
+      {
+        "ingredient": "泡菜",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "肉塊",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "393",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "辣味泡麵",
+    "english_name": "Spicy Ramen",
+    "ingredients": [
+      {
+        "ingredient": "素麵",
+        "percentage": "43%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "辣的辣椒",
+        "percentage": "17%"
+      }
+    ]
+  },
+  {
+    "id": "394",
+    "category": "9",
+    "type": "炒(火)",
+    "name": "洋釀炸雞",
+    "english_name": "Seasoned Spicy Chicken",
+    "ingredients": [
+      {
+        "ingredient": "炸雞",
+        "percentage": "71%"
+      },
+      {
+        "ingredient": "糖漿",
+        "percentage": "10%"
+      },
+      {
+        "ingredient": "辣椒醬",
+        "percentage": "19%"
+      }
+    ]
+  },
+  {
+    "id": "395",
+    "category": "9",
+    "type": "炒(火)",
+    "name": "泡菜炒飯",
+    "english_name": "Fried Rice with Kimchi",
+    "ingredients": [
+      {
+        "ingredient": "泡菜",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "拼盤炒飯",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "荷包蛋",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "396",
+    "category": "9",
+    "type": "炒(火)",
+    "name": "松露奶油玉棋",
+    "english_name": "Truffle Cream Gnocchi",
+    "ingredients": [
+      {
+        "ingredient": "煮熟的馬鈴薯",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "奶油調味料",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "松露菇",
+        "percentage": "20%"
+      }
+    ]
+  },
+  {
+    "id": "397",
+    "category": "9",
+    "type": "炒(火)",
+    "name": "起司炒年糕",
+    "english_name": "Cheese Tteokbokki",
+    "ingredients": [
+      {
+        "ingredient": "白色米糕",
+        "percentage": "54%"
+      },
+      {
+        "ingredient": "辣椒醬",
+        "percentage": "28%"
+      },
+      {
+        "ingredient": "起司塊",
+        "percentage": "18%"
+      }
+    ]
+  },
+  {
+    "id": "398",
+    "category": "6",
+    "type": "製作派",
+    "name": "牛角麵包",
+    "english_name": "Croissant",
+    "ingredients": [
+      {
+        "ingredient": "麵包粉麵糰",
+        "percentage": "66%"
+      },
+      {
+        "ingredient": "牛奶",
+        "percentage": "22%"
+      },
+      {
+        "ingredient": "奶油",
+        "percentage": "12%"
+      }
+    ]
+  },
+  {
+    "id": "399",
+    "category": "3",
+    "type": "發酵",
+    "name": "草莓糯米糕",
+    "english_name": "Strawberry Sticky Rice Cake",
+    "ingredients": [
+      {
+        "ingredient": "白色米糕",
+        "percentage": "65%"
+      },
+      {
+        "ingredient": "草莓",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "豆沙餡兒",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "400",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "馬卡龍",
+    "english_name": "Macaroon",
+    "ingredients": [
+      {
+        "ingredient": "蛋",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "奶油",
+        "percentage": "30%"
+      }
+    ]
+  },
+  {
+    "id": "401",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "白菜煎餅",
+    "english_name": "Cabbage Pancake",
+    "ingredients": [
+      {
+        "ingredient": "白菜",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "麵粉",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "醬油",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "402",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "可麗露",
+    "english_name": "Cannele",
+    "ingredients": [
+      {
+        "ingredient": "蛋",
+        "percentage": "55%"
+      },
+      {
+        "ingredient": "牛奶",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "蜂蠟",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "403",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "雞蛋美乃滋吐司",
+    "english_name": "Egg Mayonnaise Toast",
+    "ingredients": [
+      {
+        "ingredient": "吐司 (Toast)",
+        "percentage": "66%"
+      },
+      {
+        "ingredient": "蛋",
+        "percentage": "24%"
+      },
+      {
+        "ingredient": "美乃茲醬",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "404",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "紅茶",
+    "english_name": "Black Tea",
+    "ingredients": [
+      {
+        "ingredient": "茶葉",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "75%"
+      }
+    ]
+  },
+  {
+    "id": "405",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "奶茶",
+    "english_name": "Milk Tea",
+    "ingredients": [
+      {
+        "ingredient": "紅茶",
+        "percentage": "77%"
+      },
+      {
+        "ingredient": "牛奶",
+        "percentage": "18%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "5%"
+      }
+    ]
+  },
+  {
+    "id": "406",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "日式千層火鍋",
+    "english_name": "Mille-Feuille Stew",
+    "ingredients": [
+      {
+        "ingredient": "白菜",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "牛肉",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "湯頭",
+        "percentage": "50%"
+      }
+    ]
+  },
+  {
+    "id": "407",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "奶凍",
+    "english_name": "Panna Cotta",
+    "ingredients": [
+      {
+        "ingredient": "鮮奶油",
+        "percentage": "57%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "24%"
+      },
+      {
+        "ingredient": "膠原蛋白",
+        "percentage": "19%"
+      }
+    ]
+  },
+  {
+    "id": "408",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "土耳其軟糖",
+    "english_name": "Lokum",
+    "ingredients": [
+      {
+        "ingredient": "水瓶",
+        "percentage": "32%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "57%"
+      },
+      {
+        "ingredient": "檸檬原汁",
+        "percentage": "11%"
+      }
+    ]
+  },
+  {
+    "id": "409",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "紅燒辣雞",
+    "english_name": "Spicy Chicken Stew",
+    "ingredients": [
+      {
+        "ingredient": "雞肉",
+        "percentage": "60%"
+      },
+      {
+        "ingredient": "馬鈴薯",
+        "percentage": "22%"
+      },
+      {
+        "ingredient": "辣椒醬",
+        "percentage": "18%"
+      }
+    ]
+  },
+  {
+    "id": "410",
+    "category": "A",
+    "type": "炸(火)",
+    "name": "炸雞",
+    "english_name": "Fried Chicken",
+    "ingredients": [
+      {
+        "ingredient": "雞肉",
+        "percentage": "71%"
+      },
+      {
+        "ingredient": "用在炸料理上的粉",
+        "percentage": "16%"
+      },
+      {
+        "ingredient": "橄欖油",
+        "percentage": "13%"
+      }
+    ]
+  },
+  {
+    "id": "411",
+    "category": "9",
+    "type": "炒(火)",
+    "name": "番茄炒蛋",
+    "english_name": "Stir-Fried Tomato and Egg",
+    "ingredients": [
+      {
+        "ingredient": "番茄",
+        "percentage": "56%"
+      },
+      {
+        "ingredient": "蛋",
+        "percentage": "35%"
+      },
+      {
+        "ingredient": "胡椒",
+        "percentage": "9%"
+      }
+    ]
+  },
+  {
+    "id": "412",
+    "category": "3",
+    "type": "發酵",
+    "name": "泡菜",
+    "english_name": "Kimchi",
+    "ingredients": [
+      {
+        "ingredient": "白菜",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "鹽巴",
+        "percentage": "8%"
+      },
+      {
+        "ingredient": "辣椒粉",
+        "percentage": "22%"
+      }
+    ]
+  },
+  {
+    "id": "413",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "香料烤火雞",
+    "english_name": "Turkey Tetrazzini",
+    "ingredients": [
+      {
+        "ingredient": "火雞肉",
+        "percentage": "40%"
+      },
+      {
+        "ingredient": "松露菇",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "奶油義大利麵",
+        "percentage": "40%"
+      }
+    ]
+  },
+  {
+    "id": "414",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "營養滿分核桃餅乾",
+    "english_name": "Walnut Cookie",
+    "ingredients": [
+      {
+        "ingredient": "核桃",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "豆沙餡兒",
+        "percentage": "30%"
+      },
+      {
+        "ingredient": "麵粉",
+        "percentage": "40%"
+      }
+    ]
+  },
+  {
+    "id": "415",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "甜栗拿鐵",
+    "english_name": "Honey Chestnut Latte",
+    "ingredients": [
+      {
+        "ingredient": "煮過的栗子",
+        "percentage": "25%"
+      },
+      {
+        "ingredient": "新鮮蜂蜜",
+        "percentage": "10%"
+      },
+      {
+        "ingredient": "牛奶",
+        "percentage": "65%"
+      }
+    ]
+  },
+  {
+    "id": "416",
+    "category": "1",
+    "type": "刀工",
+    "name": "綜合貝類生魚片",
+    "english_name": "Assorted Slices of Raw Clam",
+    "ingredients": [
+      {
+        "ingredient": "干貝",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "牛角蛤",
+        "percentage": "45%"
+      },
+      {
+        "ingredient": "醋醬",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "417",
+    "category": "F",
+    "type": "燒(火)",
+    "name": "烤扇貝起司",
+    "english_name": "Roast Scallop with Cheese",
+    "ingredients": [
+      {
+        "ingredient": "干貝",
+        "percentage": "70%"
+      },
+      {
+        "ingredient": "起司塊",
+        "percentage": "20%"
+      },
+      {
+        "ingredient": "紅甜椒",
+        "percentage": "10%"
+      }
+    ]
+  },
+  {
+    "id": "418",
+    "category": "C",
+    "type": "煮(火)",
+    "name": "扇貝番茄燉湯",
+    "english_name": "Tomato Stew with Scallop",
+    "ingredients": [
+      {
+        "ingredient": "干貝",
+        "percentage": "52%"
+      },
+      {
+        "ingredient": "洋蔥",
+        "percentage": "24%"
+      },
+      {
+        "ingredient": "番茄",
+        "percentage": "24%"
+      }
+    ]
+  }
+]

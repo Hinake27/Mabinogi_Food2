@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>濃度調節器</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: #2f2f2f;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            width: 400px;
+            max-width: 90%;
+            padding: 30px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 15px;
+            border: 2px solid #D45571;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+        }
+
+        .search-container {
+            margin-bottom: 20px;
+            position: relative;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 10px;
+            background: rgba(252, 201, 185, 0.1);
+            border: 2px solid #D45571;
+            color: #FCC9B9;
+            border-radius: 6px;
+        }
+
+        .search-results {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            background: rgba(47, 47, 47, 0.95);
+            border: 1px solid #D45571;
+            border-radius: 6px;
+            margin-top: 5px;
+            max-height: 200px;
+            overflow-y: auto;
+            z-index: 1000;
+            display: none;
+        }
+
+        .search-result-item {
+            padding: 8px 12px;
+            color: #FCC9B9;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .search-result-item:hover {
+            background: rgba(212, 85, 113, 0.2);
+        }
+
+        .recipe-info {
+            margin-top: 20px;
+            color: #FCC9B9;
+            display: none;
+            padding: 15px;
+            background: rgba(212, 85, 113, 0.1);
+            border-radius: 8px;
+        }
+
+        .recipe-info h2, .recipe-info p {
+            margin: 0;
+            margin-bottom: 10px;
+        }
+
+                .gif-image {
+            width: 400px;          /* 增加寬度 */
+            height: 100px;         /* 增加高度 */
+            object-fit: contain;   /* 保持比例 */
+            display: block;
+            margin: 20px auto;
+            border-radius: 0;      /* 移除圓角 */
+            border: none;          /* 移除邊框 */
+        }
+
+        .concentration-bar {
+            width: 400px;          /* 與圖片相同尺寸 */
+            height: 100px;
+            background: #333;      /* 深灰色背景 */
+            position: relative;
+            margin: 20px auto;     /* 與圖片相同間距 */
+            overflow: visible;
+            border-radius: 0;      /* 移除圓角 */
+            border: none;          /* 移除邊框 */
+            box-shadow: none;      /* 移除陰影 */
+        }
+
+
+        .fill-section {
+            height: 100%;
+            position: absolute;
+            left: 0;
+            width: 0;
+            transition: all 0.3s ease;
+            display: none;
+        }
+
+        .fill-section::before {
+    content: '';
+    position: absolute;
+    right: -10px;          /* 調整水平位置 */
+    top: -56px;            /* 調整垂直位置 */
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 16px solid var(--arrow-color, #ffffff); /* 使用變量設置顏色 */
+    transform: rotate(180deg);  /* 旋轉180度 */
+}
+
+
+
+
+
+        .section1 { background: #FFB95A; z-index: 3; }
+        .section2 { background: #006442; z-index: 2; }
+        .section3 { background: #CF3A24; z-index: 1; }
+
+        .percentage {
+            color: #FCC9B9;
+            font-size: 18px;
+            text-align: center;
+            margin: 15px 0;
+            text-shadow: 0 0 10px rgba(212, 85, 113, 0.3);
+        }
+
+        .error {
+            color: #D45571;
+            font-size: 14px;
+            text-align: center;
+            margin-top: 5px;
+            display: none;
+        }
+
+        .controls {
+            display: flex;
+            gap: 15px;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+
+        .control-group {
+            flex: 1;
+            padding: 15px;
+            background: rgba(212, 85, 113, 0.1);
+            border-radius: 8px;
+            border: 1px solid #D45571;
+            display: none;
+        }
+
+        .label {
+            color: #FCC9B9;
+            font-size: 14px;
+            margin-bottom: 8px;
+            text-align: center;
+        }
+
+        .input-field {
+            width: 90%;
+            background: rgba(252, 201, 185, 0.1);
+            border: 2px solid #D45571;
+            color: #FCC9B9;
+            padding: 8px;
+            font-size: 14px;
+            text-align: center;
+            border-radius: 6px;
+        }
+
+        @media (max-width: 768px) {
+            .container { width: 90%; }
+            .controls { flex-direction: column; }
+            .control-group { width: 100%; }
+            .input-field { width: 100%; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="search-container">
+            <input type="text" class="search-input" id="recipeSearch" placeholder="輸入名稱或成分...">
+            <div id="searchResults" class="search-results"></div>
+        </div>
+
+        <div class="recipe-info" id="recipeInfo">
+            <h2 id="recipeName"></h2>
+            <p id="recipeEnglishName"></p>
+            <div id="ingredients"></div>
+        </div>
+
+        <img src="cook2.gif" alt="濃度指示器" class="gif-image">
+
+        <div class="concentration-bar">
+            <div id="section1" class="fill-section section1"></div>
+            <div id="section2" class="fill-section section2"></div>
+            <div id="section3" class="fill-section section3"></div>
+        </div>
+
+        <div class="percentage" id="percentageDisplay">總濃度：0%</div>
+        <div class="error" id="errorMessage"></div>
+
+        <div class="controls">
+            <div class="control-group">
+                <div class="label">濃度1</div>
+                <input type="number" class="input-field" id="percent1" value="0" min="0" max="100">
+            </div>
+            <div class="control-group">
+                <div class="label">濃度2</div>
+                <input type="number" class="input-field" id="percent2" value="0" min="0" max="100">
+            </div>
+            <div class="control-group">
+                <div class="label">濃度3</div>
+                <input type="number" class="input-field" id="percent3" value="0" min="0" max="100">
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let recipesData = [];
+
+        function updateConcentrations() {
+    const sections = [
+        { id: 'section1', color: '#FFB95A' },
+        { id: 'section2', color: '#006442' },
+        { id: 'section3', color: '#CF3A24' }
+    ];
+
+    const section1 = parseFloat(document.getElementById('percent1').value) || 0;
+    const section2 = parseFloat(document.getElementById('percent2').value) || 0;
+    const section3 = parseFloat(document.getElementById('percent3').value) || 0;
+
+    const visibleSections = [
+        document.getElementById('section1').style.display !== 'none' ? section1 : 0,
+        document.getElementById('section2').style.display !== 'none' ? section2 : 0,
+        document.getElementById('section3').style.display !== 'none' ? section3 : 0
+    ];
+
+    let currentLeft = 0;
+    sections.forEach((section, index) => {
+        const sectionElement = document.getElementById(section.id);
+        const percentage = visibleSections[index];
+        if (sectionElement.style.display !== 'none') {
+            // 更新寬度和位置
+            sectionElement.style.width = `${percentage}%`;
+            sectionElement.style.left = `${currentLeft}%`;
+            currentLeft += percentage;
+
+            // 動態更新箭頭顏色
+            sectionElement.style.setProperty('--arrow-color', section.color);
+        }
+    });
+
+    // 更新總濃度顯示
+    const total = visibleSections.reduce((a, b) => a + b, 0);
+    document.getElementById('percentageDisplay').textContent = `總濃度：${Math.min(total, 100)}%`;
+}
+
+
+        function selectRecipe(recipe) {
+            document.getElementById('recipeName').textContent = recipe.name;
+            document.getElementById('recipeEnglishName').textContent = recipe.english_name;
+            
+            ['percent1', 'percent2', 'percent3'].forEach((id, index) => {
+                const input = document.getElementById(id);
+                const section = document.getElementById(`section${index + 1}`);
+                const controlGroup = input.parentElement;
+                input.value = 0;
+                controlGroup.style.display = 'none';
+                section.style.display = 'none';
+            });
+            
+            recipe.ingredients.forEach((ing, index) => {
+                if (index < 3) {
+                    const input = document.getElementById(`percent${index + 1}`);
+                    const section = document.getElementById(`section${index + 1}`);
+                    const controlGroup = input.parentElement;
+                    
+                    input.value = parseInt(ing.percentage);
+                    controlGroup.style.display = 'block';
+                    section.style.display = 'block';
+                }
+            });
+            
+            const ingredientsHtml = recipe.ingredients.map(ing => 
+    `<p>${ing.ingredient}: ${ing.percentage.replace(/%%/g, '%')}</p>`
+).join('');
+
+            document.getElementById('ingredients').innerHTML = ingredientsHtml;
+            
+            document.getElementById('recipeInfo').style.display = 'block';
+            document.getElementById('searchResults').style.display = 'none';
+            updateConcentrations();
+        }
+
+        function searchRecipe(searchTerm) {
+            const searchResults = document.getElementById('searchResults');
+            searchResults.innerHTML = '';
+            
+            if (!searchTerm.trim()) {
+                searchResults.style.display = 'none';
+                return;
+            }
+
+            const matchedRecipes = recipesData.filter(r => 
+                r.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
+                r.english_name.toLowerCase().includes(searchTerm.toLowerCase()) ||
+                r.ingredients.some(ing => 
+                    ing.ingredient.toLowerCase().includes(searchTerm.toLowerCase())
+                )
+            );
+
+            if (matchedRecipes.length > 0) {
+                searchResults.style.display = 'block';
+                matchedRecipes.forEach(recipe => {
+                    const div = document.createElement('div');
+                    div.className = 'search-result-item';
+                    div.textContent = `${recipe.name} (${recipe.english_name})`;
+                    div.onclick = () => selectRecipe(recipe);
+                    searchResults.appendChild(div);
+                });
+            } else {
+                searchResults.style.display = 'none';
+            }
+        }
+
+        document.addEventListener('click', function(e) {
+            const searchResults = document.getElementById('searchResults');
+            const searchInput = document.getElementById('recipeSearch');
+            
+            if (!searchResults.contains(e.target) && e.target !== searchInput) {
+                searchResults.style.display = 'none';
+            }
+        });
+
+        document.addEventListener('DOMContentLoaded', function() {
+            ['percent1', 'percent2', 'percent3'].forEach(id => {
+                const input = document.getElementById(id);
+                input.addEventListener('input', function() {
+                    let value = parseFloat(this.value) || 0;
+                    value = Math.max(0, Math.min(100, value));
+                    this.value = value;
+                    updateConcentrations();
+                });
+            });
+
+            document.getElementById('recipeSearch').addEventListener('input', function(e) {
+                searchRecipe(e.target.value);
+            });
+
+            fetch('./food_data.json')
+    .then(response => response.json())
+    .then(data => {
+        recipesData = data.map(recipe => ({
+            ...recipe,
+            ingredients: recipe.ingredients.map(ing => ({
+                ...ing,
+                percentage: ing.percentage.replace('%%', '%') // 替換%%為%
+            }))
+        }));
+        console.log('食譜數據載入成功');
+    })
+    .catch(error => console.error('Error loading data:', error));
+
+        });
+    </script>
+</body>
+</html>

@@ -8424,8 +8424,29 @@
       }
     ]
   },
-  {
+    {
     "id": "418",
+    "category": "F",
+    "type": "混和",
+    "name": "可可巧克力蛋糕",
+    "english_name": "Roast Scallop with Cheese",
+    "ingredients": [
+      {
+        "ingredient": "可可",
+        "percentage": "33%"
+      },
+      {
+        "ingredient": "麵包麵粉糰",
+        "percentage": "34%"
+      },
+      {
+        "ingredient": "砂糖",
+        "percentage": "33%"
+      }
+    ]
+    },
+  {
+    "id": "419",
     "category": "C",
     "type": "煮(火)",
     "name": "扇貝番茄燉湯",

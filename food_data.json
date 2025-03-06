@@ -8445,8 +8445,29 @@
       }
     ]
     },
-  {
+      {
     "id": "419",
+    "category": "?",
+    "type": "攪拌",
+    "name": "麵包粉麵團",
+    "english_name": "Bread flour dough",
+    "ingredients": [
+      {
+        "ingredient": "小麥粉",
+        "percentage": "75%"
+      },
+      {
+        "ingredient": "酵母粉",
+        "percentage": "14%"
+      },
+      {
+        "ingredient": "水瓶",
+        "percentage": "26%"
+      }
+    ]
+    },
+  {
+    "id": "420",
     "category": "C",
     "type": "煮(火)",
     "name": "扇貝番茄燉湯",

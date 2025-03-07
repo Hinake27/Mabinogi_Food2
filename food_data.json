@@ -8446,28 +8446,846 @@
     ]
     },
       {
-    "id": "419",
-    "category": "?",
-    "type": "攪拌",
-    "name": "麵包粉麵團",
-    "english_name": "Dough",
-    "ingredients": [
-      {
-        "ingredient": "小麥粉",
-        "percentage": "65%"
+        "id": "419",
+        "category": "練習 : 混合",
+        "type": "攪拌",
+        "name": "肉醬料",
+        "english_name": "Meat Seasoning",
+        "ingredients": [
+          {
+            "ingredient": "蒜頭",
+            "percentage": "80%"
+          },
+          {
+            "ingredient": "胡椒",
+            "percentage": "10%"
+          },
+          {
+            "ingredient": "鹽巴",
+            "percentage": "10%"
+          }
+        ]
       },
       {
-        "ingredient": "酵母粉",
-        "percentage": "13%"
+        "id": "420",
+        "category": "練習 : 混合",
+        "type": "攪拌",
+        "name": "咖哩糊",
+        "english_name": "Curry Paste",
+        "ingredients": [
+          {
+            "ingredient": "咖哩粉",
+            "percentage": "70%"
+          },
+          {
+            "ingredient": "肉塊",
+            "percentage": "15%"
+          },
+          {
+            "ingredient": "馬鈴薯",
+            "percentage": "15%"
+          }
+        ]
       },
       {
-        "ingredient": "水瓶",
-        "percentage": "22%"
-      }
-    ]
-    },
-  {
-    "id": "420",
+        "id": "421",
+        "category": "練習 : 混合",
+        "type": "攪拌",
+        "name": "美乃茲醬",
+        "english_name": "Mayonnaise",
+        "ingredients": [
+          {
+            "ingredient": "蛋",
+            "percentage": "72%"
+          },
+          {
+            "ingredient": "橄欖油",
+            "percentage": "20%"
+          },
+          {
+            "ingredient": "鹽巴",
+            "percentage": "8%"
+          }
+        ]
+      },
+      {
+        "id": "422",
+        "category": "練習 : 混合",
+        "type": "攪拌",
+        "name": "泡水的豆子",
+        "english_name": "Macerated Bean",
+        "ingredients": [
+          {
+            "ingredient": "豆子",
+            "percentage": "70%"
+          },
+          {
+            "ingredient": "水瓶",
+            "percentage": "25%"
+          },
+          {
+            "ingredient": "鹽巴",
+            "percentage": "5%"
+          }
+        ]
+      },
+      {
+        "id": "423",
+        "category": "練習 : 混合",
+        "type": "攪拌",
+        "name": "泡水的豆子水",
+        "english_name": "Macerated Soymilk",
+        "ingredients": [
+          {
+            "ingredient": "泡水的豆子粉",
+            "percentage": "75%"
+          },
+          {
+            "ingredient": "水瓶",
+            "percentage": "25%"
+          }
+        ]
+      },
+      {
+        "id": "424",
+        "category": "練習 : 混合",
+        "type": "攪拌",
+        "name": "剝了皮的豆子水",
+        "english_name": "Scaled Soymilk",
+        "ingredients": [
+          {
+            "ingredient": "剝了皮的豆子粉",
+            "percentage": "75%"
+          },
+          {
+            "ingredient": "水瓶",
+            "percentage": "25%"
+          }
+        ]
+      },
+      {
+        "id": "425",
+        "category": "練習 : 混合",
+        "type": "攪拌",
+        "name": "烤熟的豆子水",
+        "english_name": "Baked Soymilk",
+        "ingredients": [
+          {
+            "ingredient": "烤熟的豆子粉",
+            "percentage": "75%"
+          },
+          {
+            "ingredient": "水瓶",
+            "percentage": "25%"
+          }
+        ]
+      },
+      {
+        "id": "426",
+        "category": "練習 : 混合",
+        "type": "攪拌",
+        "name": "野菜拼盤",
+        "english_name": "Mixed Vegetable",
+        "ingredients": [
+          {
+            "ingredient": "芹菜",
+            "percentage": "35%"
+          },
+          {
+            "ingredient": "洋蔥",
+            "percentage": "35%"
+          },
+          {
+            "ingredient": "紅蘿蔔",
+            "percentage": "30%"
+          }
+        ]
+      },
+      {
+        "id": "427",
+        "category": "練習 : 混合",
+        "type": "攪拌",
+        "name": "醋醬",
+        "english_name": "Red Chili-Pepper Paste with Vinegar",
+        "ingredients": [
+          {
+            "ingredient": "食醋",
+            "percentage": "45%"
+          },
+          {
+            "ingredient": "辣椒醬",
+            "percentage": "44%"
+          },
+          {
+            "ingredient": "蒜頭",
+            "percentage": "11%"
+          }
+        ]
+      },
+      {
+        "id": "428",
+        "category": "練習 : 混合",
+        "type": "攪拌",
+        "name": "檸檬原汁",
+        "english_name": "Lemon Juice",
+        "ingredients": [
+          {
+            "ingredient": "檸檬",
+            "percentage": "85%"
+          },
+          {
+            "ingredient": "果實",
+            "percentage": "10%"
+          },
+          {
+            "ingredient": "水瓶",
+            "percentage": "5%"
+          }
+        ]
+      },
+      {
+        "id": "429",
+        "category": "練習 : 混合",
+        "type": "攪拌",
+        "name": "麵包粉",
+        "english_name": "Bread Crumbs",
+        "ingredients": [
+          {
+            "ingredient": "吐司",
+            "percentage": "100%"
+          }
+        ]
+      },
+      {
+        "id": "430",
+        "category": "練習 : 混合",
+        "type": "攪拌",
+        "name": "龍的肉塊",
+        "english_name": "Body of Dragon",
+        "ingredients": [
+          {
+            "ingredient": "龍的肉",
+            "percentage": "34%"
+          },
+          {
+            "ingredient": "龍的肉",
+            "percentage": "33%"
+          },
+          {
+            "ingredient": "龍的肉",
+            "percentage": "33%"
+          }
+        ]
+      },
+      {
+        "id": "431",
+        "category": "F : 燒(火)",
+        "type": "攪拌",
+        "name": "可麗餅",
+        "english_name": "Crepe",
+        "ingredients": [
+          {
+            "ingredient": "麵包粉麵糰",
+            "percentage": "83%"
+          },
+          {
+            "ingredient": "蛋",
+            "percentage": "9%"
+          },
+          {
+            "ingredient": "牛奶",
+            "percentage": "8%"
+          }
+        ]
+      },
+      {
+        "id": "432",
+        "category": "F : 燒(火)",
+        "type": "攪拌",
+        "name": "玉米餅",
+        "english_name": "Tortilla",
+        "ingredients": [
+          {
+            "ingredient": "玉米麵包麵團",
+            "percentage": "100%"
+          }
+        ]
+      },
+      {
+        "id": "433",
+        "category": "F : 燒(火)",
+        "type": "攪拌",
+        "name": "烤熟的豆子",
+        "english_name": "Baked Bean",
+        "ingredients": [
+          {
+            "ingredient": "豆子",
+            "percentage": "90%"
+          },
+          {
+            "ingredient": "橄欖油",
+            "percentage": "5%"
+          },
+          {
+            "ingredient": "鹽巴",
+            "percentage": "5%"
+          }
+        ]
+      },
+      {
+        "id": "434",
+        "category": "E : 熬(火)",
+        "type": "攪拌",
+        "name": "豆沙餡兒",
+        "english_name": "Bean Jam",
+        "ingredients": [
+          {
+            "ingredient": "紅豆",
+            "percentage": "85%"
+          },
+          {
+            "ingredient": "水瓶",
+            "percentage": "15%"
+          }
+        ]
+      },
+      {
+        "id": "435",
+        "category": "E : 熬(火)",
+        "type": "攪拌",
+        "name": "南瓜泥",
+        "english_name": "Autumn Squash Puree",
+        "ingredients": [
+          {
+            "ingredient": "南瓜",
+            "percentage": "90%"
+          },
+          {
+            "ingredient": "水瓶",
+            "percentage": "10%"
+          }
+        ]
+      },
+      {
+        "id": "436",
+        "category": "D : 攪拌",
+        "type": "攪拌",
+        "name": "玉米麵包麵團",
+        "english_name": "Corn Bread Dough",
+        "ingredients": [
+          {
+            "ingredient": "麵粉",
+            "percentage": "35%"
+          },
+          {
+            "ingredient": "玉米麵",
+            "percentage": "35%"
+          },
+          {
+            "ingredient": "水瓶",
+            "percentage": "30%"
+          }
+        ]
+      },
+      {
+        "id": "437",
+        "category": "D : 攪拌",
+        "type": "攪拌",
+        "name": "麵包粉麵糰",
+        "english_name": "Dough",
+        "ingredients": [
+          {
+            "ingredient": "麵粉",
+            "percentage": "65%"
+          },
+          {
+            "ingredient": "酵母粉",
+            "percentage": "13%"
+          },
+          {
+            "ingredient": "水瓶",
+            "percentage": "22%"
+          }
+        ]
+      },
+      {
+        "id": "438",
+        "category": "D : 攪拌",
+        "type": "攪拌",
+        "name": "麵衣",
+        "english_name": "Fry Skin",
+        "ingredients": [
+          {
+            "ingredient": "水瓶",
+            "percentage": "60%"
+          },
+          {
+            "ingredient": "蛋",
+            "percentage": "25%"
+          },
+          {
+            "ingredient": "用在炸料理上的粉",
+            "percentage": "15%"
+          }
+        ]
+      },
+      {
+        "id": "439",
+        "category": "C : 煮(火)",
+        "type": "攪拌",
+        "name": "奶油調味料",
+        "english_name": "Cream Paste",
+        "ingredients": [
+          {
+            "ingredient": "牛奶",
+            "percentage": "33%"
+          },
+          {
+            "ingredient": "鮮奶油",
+            "percentage": "67%"
+          }
+        ]
+      },
+      {
+        "id": "440",
+        "category": "C : 煮(火)",
+        "type": "攪拌",
+        "name": "海鮮調味料",
+        "english_name": "Sea Food Paste",
+        "ingredients": [
+          {
+            "ingredient": "蝦子",
+            "percentage": "67%"
+          },
+          {
+            "ingredient": "蒜頭",
+            "percentage": "23%"
+          },
+          {
+            "ingredient": "胡椒",
+            "percentage": "10%"
+          }
+        ]
+      },
+      {
+        "id": "441",
+        "category": "C : 煮(火)",
+        "type": "攪拌",
+        "name": "海鮮調味料",
+        "english_name": "Sea Food Paste",
+        "ingredients": [
+          {
+            "ingredient": "蝦子",
+            "percentage": "60%"
+          },
+          {
+            "ingredient": "蒜頭",
+            "percentage": "20%"
+          },
+          {
+            "ingredient": "貝殼",
+            "percentage": "20%"
+          }
+        ]
+      },
+      {
+        "id": "442",
+        "category": "C : 煮(火)",
+        "type": "攪拌",
+        "name": "番茄調味料",
+        "english_name": "Tomato Paste",
+        "ingredients": [
+          {
+            "ingredient": "番茄",
+            "percentage": "70%"
+          },
+          {
+            "ingredient": "肉塊",
+            "percentage": "20%"
+          },
+          {
+            "ingredient": "羅勒",
+            "percentage": "10%"
+          }
+        ]
+      },
+      {
+        "id": "443",
+        "category": "C : 煮(火)",
+        "type": "攪拌",
+        "name": "湯頭",
+        "english_name": "Meat Broth",
+        "ingredients": [
+          {
+            "ingredient": "牛肉",
+            "percentage": "60%"
+          },
+          {
+            "ingredient": "水瓶",
+            "percentage": "40%"
+          }
+        ]
+      },
+      {
+        "id": "444",
+        "category": "C : 煮(火)",
+        "type": "攪拌",
+        "name": "辣醬油",
+        "english_name": "Worcester Sauce",
+        "ingredients": [
+          {
+            "ingredient": "野菜拼盤",
+            "percentage": "45%"
+          },
+          {
+            "ingredient": "水瓶",
+            "percentage": "38%"
+          },
+          {
+            "ingredient": "鹽醃鯡魚",
+            "percentage": "17%"
+          }
+        ]
+      },
+      {
+        "id": "445",
+        "category": "C : 煮(火)",
+        "type": "攪拌",
+        "name": "糖漿",
+        "english_name": "Starch Syrup",
+        "ingredients": [
+          {
+            "ingredient": "米",
+            "percentage": "40%"
+          },
+          {
+            "ingredient": "水瓶",
+            "percentage": "27%"
+          },
+          {
+            "ingredient": "砂糖",
+            "percentage": "33%"
+          }
+        ]
+      },
+      {
+        "id": "446",
+        "category": "B : 製作麵條",
+        "type": "攪拌",
+        "name": "素麵",
+        "english_name": "Thin Noodle",
+        "ingredients": [
+          {
+            "ingredient": "麵粉",
+            "percentage": "45%"
+          },
+          {
+            "ingredient": "水瓶",
+            "percentage": "50%"
+          },
+          {
+            "ingredient": "鹽巴",
+            "percentage": "5%"
+          }
+        ]
+      },
+      {
+        "id": "447",
+        "category": "B : 製作麵條",
+        "type": "攪拌",
+        "name": "麵條",
+        "english_name": "Thick Noodle",
+        "ingredients": [
+          {
+            "ingredient": "麵粉",
+            "percentage": "40%"
+          },
+          {
+            "ingredient": "水瓶",
+            "percentage": "40%"
+          },
+          {
+            "ingredient": "蛋",
+            "percentage": "20%"
+          }
+        ]
+      },
+      {
+        "id": "448",
+        "category": "8 : 製作義大利麵",
+        "type": "攪拌",
+        "name": "義大利麵食麵糰",
+        "english_name": "Pasta Dough",
+        "ingredients": [
+          {
+            "ingredient": "麵粉",
+            "percentage": "67%"
+          },
+          {
+            "ingredient": "蛋",
+            "percentage": "33%"
+          }
+        ]
+      },
+      {
+        "id": "449",
+        "category": "8 : 製作義大利麵",
+        "type": "攪拌",
+        "name": "長義大利麵食",
+        "english_name": "Long Pasta",
+        "ingredients": [
+          {
+            "ingredient": "義大利麵食麵糰",
+            "percentage": "20%"
+          },
+          {
+            "ingredient": "水瓶",
+            "percentage": "80%"
+          }
+        ]
+      },
+      {
+        "id": "450",
+        "category": "8 : 製作義大利麵",
+        "type": "攪拌",
+        "name": "短義大利麵食",
+        "english_name": "Short Pasta",
+        "ingredients": [
+          {
+            "ingredient": "義大利麵食麵糰",
+            "percentage": "20%"
+          },
+          {
+            "ingredient": "水瓶",
+            "percentage": "75%"
+          },
+          {
+            "ingredient": "蛋",
+            "percentage": "5%"
+          }
+        ]
+      },
+      {
+        "id": "451",
+        "category": "7 : 製作果醬(火)",
+        "type": "攪拌",
+        "name": "薄荷糖漿",
+        "english_name": "Mint Syrup",
+        "ingredients": [
+          {
+            "ingredient": "薄荷",
+            "percentage": "65%"
+          },
+          {
+            "ingredient": "水瓶",
+            "percentage": "75%"
+          },
+          {
+            "ingredient": "砂糖",
+            "percentage": "5%"
+          }
+        ]
+      },
+      {
+        "id": "452",
+        "category": "6 : 製作派",
+        "type": "攪拌",
+        "name": "皮模板",
+        "english_name": "Pie Shell",
+        "ingredients": [
+          {
+            "ingredient": "麵粉",
+            "percentage": "70%"
+          },
+          {
+            "ingredient": "牛奶",
+            "percentage": "20%"
+          },
+          {
+            "ingredient": "蛋",
+            "percentage": "10%"
+          }
+        ]
+      },
+      {
+        "id": "453",
+        "category": "6 : 製作派",
+        "type": "攪拌",
+        "name": "撻模板",
+        "english_name": "Tarte Shell",
+        "ingredients": [
+          {
+            "ingredient": "麵粉",
+            "percentage": "60%"
+          },
+          {
+            "ingredient": "奶油",
+            "percentage": "30%"
+          },
+          {
+            "ingredient": "蛋",
+            "percentage": "10%"
+          }
+        ]
+      },
+      {
+        "id": "454",
+        "category": "4 : 製作披薩",
+        "type": "攪拌",
+        "name": "清淡披薩麵團",
+        "english_name": "Pizza Dough",
+        "ingredients": [
+          {
+            "ingredient": "麵包粉麵糰",
+            "percentage": "100%"
+          }
+        ]
+      },
+      {
+        "id": "455",
+        "category": "4 : 製作披薩",
+        "type": "攪拌",
+        "name": "番茄醬披薩麵團",
+        "english_name": "Pizza Dough with Tomato Sauce",
+        "ingredients": [
+          {
+            "ingredient": "麵包粉麵糰",
+            "percentage": "88%"
+          },
+          {
+            "ingredient": "番茄調味料",
+            "percentage": "12%"
+          }
+        ]
+      },
+      {
+        "id": "456",
+        "category": "3 : 發酵",
+        "type": "攪拌",
+        "name": "食醋",
+        "english_name": "Vinegar",
+        "ingredients": [
+          {
+            "ingredient": "水瓶",
+            "percentage": "70%"
+          },
+          {
+            "ingredient": "蘋果",
+            "percentage": "15%"
+          },
+          {
+            "ingredient": "砂糖",
+            "percentage": "15%"
+          }
+        ]
+      },
+      {
+        "id": "457",
+        "category": "3 : 發酵",
+        "type": "攪拌",
+        "name": "酒醋",
+        "english_name": "Balsamic Vinegar",
+        "ingredients": [
+          {
+            "ingredient": "水瓶",
+            "percentage": "70%"
+          },
+          {
+            "ingredient": "艾明馬夏產紅酒",
+            "percentage": "20%"
+          },
+          {
+            "ingredient": "葡萄",
+            "percentage": "10%"
+          }
+        ]
+      },
+      {
+        "id": "458",
+        "category": "3 : 發酵",
+        "type": "攪拌",
+        "name": "辣椒醬",
+        "english_name": "Gochujang",
+        "ingredients": [
+          {
+            "ingredient": "水瓶",
+            "percentage": "69%"
+          },
+          {
+            "ingredient": "辣椒粉",
+            "percentage": "19%"
+          },
+          {
+            "ingredient": "麥芽",
+            "percentage": "12%"
+          }
+        ]
+      },
+      {
+        "id": "459",
+        "category": "3 : 發酵",
+        "type": "攪拌",
+        "name": "薩拉米香腸",
+        "english_name": "Salami",
+        "ingredients": [
+          {
+            "ingredient": "肉塊",
+            "percentage": "80%"
+          },
+          {
+            "ingredient": "肉醬料",
+            "percentage": "10%"
+          },
+          {
+            "ingredient": "鹽巴",
+            "percentage": "10%"
+          }
+        ]
+      },
+      {
+        "id": "460",
+        "category": "3 : 發酵",
+        "type": "攪拌",
+        "name": "鹽醃鯡魚",
+        "english_name": "Anchovy",
+        "ingredients": [
+          {
+            "ingredient": "鯡魚",
+            "percentage": "85%"
+          },
+          {
+            "ingredient": "鹽巴",
+            "percentage": "9%"
+          },
+          {
+            "ingredient": "橄欖油",
+            "percentage": "6%"
+          }
+        ]
+      },
+      {
+        "id": "461",
+        "category": "3 : 發酵",
+        "type": "攪拌",
+        "name": "大醬",
+        "english_name": "Miso",
+        "ingredients": [
+          {
+            "ingredient": "煮過的豆",
+            "percentage": "45%"
+          },
+          {
+            "ingredient": "鹽巴",
+            "percentage": "5%"
+          },
+          {
+            "ingredient": "水瓶",
+            "percentage": "50%"
+          }
+        ]
+      },
+    {
+    "id": "462",
     "category": "C",
     "type": "煮(火)",
     "name": "扇貝番茄燉湯",

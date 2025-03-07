@@ -8450,19 +8450,19 @@
     "category": "?",
     "type": "攪拌",
     "name": "麵包粉麵團",
-    "english_name": "Bread flour dough",
+    "english_name": "Dough",
     "ingredients": [
       {
         "ingredient": "小麥粉",
-        "percentage": "75%"
+        "percentage": "65%"
       },
       {
         "ingredient": "酵母粉",
-        "percentage": "14%"
+        "percentage": "13%"
       },
       {
         "ingredient": "水瓶",
-        "percentage": "26%"
+        "percentage": "22%"
       }
     ]
     },

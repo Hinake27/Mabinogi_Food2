@@ -9304,5 +9304,26 @@
         "percentage": "24%"
       }
     ]
-  }
+  },
+        {
+        "id": "463",
+        "category": "3 : 燒",
+        "type": "燒(火)",
+        "name": "野豬串香菇",
+        "english_name": "Skewered Boar&&Mushroom",
+        "ingredients": [
+          {
+            "ingredient": "栗茸(伊萊德森林及卡魯森林晚上空手採集)",
+            "percentage": "45%"
+          },
+          {
+            "ingredient": "巨大的肉塊",
+            "percentage": "45%"
+          },
+          {
+            "ingredient": "鹽巴",
+            "percentage": "10%"
+          }
+        ]
+      }
 ]

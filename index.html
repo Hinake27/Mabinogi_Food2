@@ -439,6 +439,46 @@
             font-size: 12px;
         }
 
+        .reference-strip {
+            padding: 14px 16px;
+        }
+
+        .reference-strip strong {
+            margin-bottom: 10px;
+        }
+
+        .reference-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .reference-link {
+            max-width: 100%;
+            padding: 10px 14px;
+            border-radius: 999px;
+            border: 1px solid rgba(244, 202, 124, 0.18);
+            background: rgba(255, 248, 232, 0.06);
+            color: var(--muted);
+            font-size: 12px;
+            text-decoration: none;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            transition: background 0.18s ease, color 0.18s ease, border-color 0.18s ease;
+        }
+
+        .reference-link:hover {
+            color: var(--accent-strong);
+            background: rgba(244, 202, 124, 0.12);
+            border-color: rgba(244, 202, 124, 0.28);
+        }
+
+        .reference-empty {
+            color: var(--muted);
+            font-size: 12px;
+        }
+
         .meter-frame {
             margin-bottom: 20px;
         }
@@ -1001,10 +1041,19 @@
                                     <div class="detail-item"><span>校正確認</span><span>-</span></div>
                                 </div>
                             </div>
-                            <div class="recipe-detail-card">
+                            <div class="recipe-detail-card reference-strip">
                                 <strong>料理效果</strong>
                                 <div class="effect-tags" id="recipeEffects">
                                     <span class="effect-tag">尚未載入</span>
+                                </div>
+                            </div>
+                            <div class="recipe-detail-card">
+                                <strong>參考文獻</strong>
+                                <div class="reference-list" id="recipeReferences">
+                                    <div class="reference-item">
+                                        <div class="reference-source">資料來源</div>
+                                        <div class="reference-title">尚未載入參考文獻</div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -1362,8 +1411,10 @@
             document.getElementById("recipeId").textContent = `ID: ${recipe.id || "-"}`;
             const workbookInfo = document.getElementById("recipeWorkbookInfo");
             const effects = document.getElementById("recipeEffects");
+            const references = document.getElementById("recipeReferences");
             const workbook = recipe.workbook || {};
             const effectEntries = Object.entries(recipe.effects || {});
+            const referenceEntries = Array.isArray(recipe.reference_literature) ? recipe.reference_literature : [];
 
             workbookInfo.innerHTML = `
                 <div class="detail-item"><span>料理方式</span><span>${workbook.method_full || "-"}</span></div>
@@ -1375,11 +1426,47 @@
             effects.innerHTML = effectEntries.length > 0
                 ? effectEntries.map(([key, value]) => `<span class="effect-tag">${key} ${value}</span>`).join("")
                 : '<span class="effect-tag">尚無效果資料</span>';
+            references.innerHTML = referenceEntries.length > 0
+                ? referenceEntries.map((entry, index) => `
+                    <a
+                        <div class="reference-source">${entry.source || "資料來源"}</div>
+                        <div class="reference-title">${entry.title || "-"}</div>
+                        <a class="reference-link" href="${entry.url || "#"}" target="_blank" rel="noopener noreferrer">${entry.url || ""}</a>
+                    </div>
+                `).join("")
+                : `
+                    <div class="reference-item">
+                        <div class="reference-source">資料來源</div>
+                        <div class="reference-title">目前沒有參考文獻資料</div>
+                    </div>
+                `;
             document.body.dataset.selectedRecipeId = recipe.id;
+        }
+
+        function renderCompactReferences(recipe) {
+            const references = document.getElementById("recipeReferences");
+            const referenceEntries = Array.isArray(recipe.reference_literature) ? recipe.reference_literature : [];
+
+            if (!references) {
+                return;
+            }
+
+            references.innerHTML = referenceEntries.length > 0
+                ? referenceEntries.map((entry, index) => `
+                    <a
+                        class="reference-link"
+                        href="${entry.url || "#"}"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        title="${(entry.source || "巴哈姆特")}｜${entry.title || "參考來源"}"
+                    >${entry.source || "巴哈姆特"}｜${entry.title || `參考來源 ${index + 1}`}</a>
+                `).join("")
+                : '<span class="reference-empty">目前沒有參考來源</span>';
         }
 
         function selectRecipe(recipe) {
             renderRecipeSummary(recipe);
+            renderCompactReferences(recipe);
             if (inputMode === "recipe") {
                 renderControls();
             }

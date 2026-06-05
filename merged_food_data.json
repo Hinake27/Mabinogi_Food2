@@ -3599,7 +3599,7 @@
     "english_name": "Barley Bread",
     "ingredients": [
       {
-        "ingredient": "麥粉",
+        "ingredient": "大麥粉",
         "percentage": "55%"
       },
       {
@@ -4032,7 +4032,7 @@
     "english_name": "Gateau Au Chocolat",
     "ingredients": [
       {
-        "ingredient": "麵粉",
+        "ingredient": "小麥粉",
         "percentage": "38%"
       },
       {
@@ -4130,12 +4130,12 @@
     "english_name": "mushroom cookie",
     "ingredients": [
       {
-        "ingredient": "麵粉",
-        "percentage": "50%"
-      },
-      {
         "ingredient": "栗茸",
         "percentage": "40%"
+      },
+      {
+        "ingredient": "小麥粉",
+        "percentage": "50%"
       },
       {
         "ingredient": "鮮奶油",
@@ -4179,7 +4179,7 @@
     "english_name": "Butter Biscuit",
     "ingredients": [
       {
-        "ingredient": "麵粉",
+        "ingredient": "小麥粉",
         "percentage": "46%"
       },
       {
@@ -4228,7 +4228,7 @@
     "english_name": "Brownie",
     "ingredients": [
       {
-        "ingredient": "麵粉",
+        "ingredient": "小麥粉",
         "percentage": "47%"
       },
       {
@@ -4277,7 +4277,7 @@
     "english_name": "Chocochip Cookie",
     "ingredients": [
       {
-        "ingredient": "麵粉",
+        "ingredient": "小麥粉",
         "percentage": "46%"
       },
       {
@@ -4326,7 +4326,7 @@
     "english_name": "coconut cookie",
     "ingredients": [
       {
-        "ingredient": "麵粉",
+        "ingredient": "小麥粉",
         "percentage": "50%"
       },
       {
@@ -6441,7 +6441,7 @@
         "percentage": "70%"
       },
       {
-        "ingredient": "麥粉",
+        "ingredient": "大麥粉",
         "percentage": "30%"
       }
     ],
@@ -9351,7 +9351,7 @@
     "english_name": "Halloween Hat Cookie",
     "ingredients": [
       {
-        "ingredient": "麵粉",
+        "ingredient": "小麥粉",
         "percentage": "70%"
       },
       {
@@ -9397,7 +9397,7 @@
     "english_name": "Halloween Star Cookie",
     "ingredients": [
       {
-        "ingredient": "麵粉",
+        "ingredient": "小麥粉",
         "percentage": "70%"
       },
       {
@@ -9443,7 +9443,7 @@
     "english_name": "Halloween Owl Cookie",
     "ingredients": [
       {
-        "ingredient": "麵粉",
+        "ingredient": "小麥粉",
         "percentage": "70%"
       },
       {
@@ -9573,7 +9573,7 @@
     "english_name": "Fried Bun",
     "ingredients": [
       {
-        "ingredient": "麵粉",
+        "ingredient": "小麥粉",
         "percentage": "50%"
       },
       {
@@ -9754,7 +9754,7 @@
     "english_name": "Fortune Cookie",
     "ingredients": [
       {
-        "ingredient": "麵粉",
+        "ingredient": "小麥粉",
         "percentage": "50%"
       },
       {
@@ -9983,7 +9983,7 @@
         "percentage": "50%"
       },
       {
-        "ingredient": "麵粉",
+        "ingredient": "小麥粉",
         "percentage": "45%"
       },
       {
@@ -10210,7 +10210,7 @@
     "english_name": "Chocolate Cake",
     "ingredients": [
       {
-        "ingredient": "麵粉",
+        "ingredient": "小麥粉",
         "percentage": "65%"
       },
       {
@@ -10696,7 +10696,7 @@
     "english_name": "Pancake",
     "ingredients": [
       {
-        "ingredient": "麵粉",
+        "ingredient": "小麥粉",
         "percentage": "75%"
       },
       {
@@ -10751,7 +10751,7 @@
         "percentage": "10%"
       },
       {
-        "ingredient": "麵粉",
+        "ingredient": "小麥粉",
         "percentage": "5%"
       }
     ],
@@ -11572,7 +11572,7 @@
     "english_name": "Steamed Dumpling",
     "ingredients": [
       {
-        "ingredient": "麵粉",
+        "ingredient": "小麥粉",
         "percentage": "50%"
       },
       {
@@ -14182,7 +14182,7 @@
         "percentage": "12%"
       },
       {
-        "ingredient": "麵粉",
+        "ingredient": "小麥粉",
         "percentage": "7%"
       }
     ],
@@ -17852,7 +17852,7 @@
     "english_name": "Special Beer of Pan",
     "ingredients": [
       {
-        "ingredient": "麥粉",
+        "ingredient": "大麥粉",
         "percentage": "5%"
       },
       {
@@ -18114,7 +18114,7 @@
         "percentage": "70%"
       },
       {
-        "ingredient": "麵粉",
+        "ingredient": "小麥粉",
         "percentage": "15%"
       },
       {
@@ -18483,7 +18483,7 @@
     "english_name": "Mint Choco Cookie",
     "ingredients": [
       {
-        "ingredient": "麵粉",
+        "ingredient": "小麥粉",
         "percentage": "65%"
       },
       {
@@ -19094,7 +19094,7 @@
         "percentage": "70%"
       },
       {
-        "ingredient": "麵粉",
+        "ingredient": "小麥粉",
         "percentage": "25%"
       },
       {
@@ -19701,7 +19701,7 @@
         "percentage": "30%"
       },
       {
-        "ingredient": "麵粉",
+        "ingredient": "小麥粉",
         "percentage": "40%"
       }
     ],
@@ -20556,7 +20556,7 @@
     "english_name": "Corn Bread Dough",
     "ingredients": [
       {
-        "ingredient": "麵粉",
+        "ingredient": "小麥粉",
         "percentage": "35%"
       },
       {
@@ -20596,7 +20596,7 @@
     "english_name": "Dough",
     "ingredients": [
       {
-        "ingredient": "麵粉",
+        "ingredient": "小麥粉",
         "percentage": "65%"
       },
       {
@@ -20950,7 +20950,7 @@
     "english_name": "Thin Noodle",
     "ingredients": [
       {
-        "ingredient": "麵粉",
+        "ingredient": "小麥粉",
         "percentage": "45%"
       },
       {
@@ -20990,7 +20990,7 @@
     "english_name": "Thick Noodle",
     "ingredients": [
       {
-        "ingredient": "麵粉",
+        "ingredient": "小麥粉",
         "percentage": "40%"
       },
       {
@@ -21030,7 +21030,7 @@
     "english_name": "Pasta Dough",
     "ingredients": [
       {
-        "ingredient": "麵粉",
+        "ingredient": "小麥粉",
         "percentage": "67%"
       },
       {
@@ -21182,7 +21182,7 @@
     "english_name": "Pie Shell",
     "ingredients": [
       {
-        "ingredient": "麵粉",
+        "ingredient": "小麥粉",
         "percentage": "70%"
       },
       {
@@ -21222,7 +21222,7 @@
     "english_name": "Tarte Shell",
     "ingredients": [
       {
-        "ingredient": "麵粉",
+        "ingredient": "小麥粉",
         "percentage": "60%"
       },
       {
